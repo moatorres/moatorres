@@ -1,12 +1,22 @@
 {
   "name": "@moatorres/moatorres.com",
+  "version": "0.1.0",
   "description": "Portfolio website made with Next.js, React and MDX",
-  "version": "0.0.1",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "keywords": [
     "portfolio",
     "blog",
     "react"
   ],
   "author": "Moa Torres",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
