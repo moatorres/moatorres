@@ -1,0 +1,12 @@
+{
+  "name": "@moatorres/moatorres.com",
+  "description": "Portfolio website made with Next.js, React and MDX",
+  "version": "0.0.1",
+  "keywords": [
+    "portfolio",
+    "blog",
+    "react"
+  ],
+  "author": "Moa Torres",
+  "license": "MIT"
+}
