@@ -1,10 +1,12 @@
 # dependencies
 node_modules
-node_modules/
 
 # misc
-temp/
+temp
 
 # env
 .env
 .env.local
+
+# next
+.next
