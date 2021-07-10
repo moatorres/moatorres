@@ -3,16 +3,25 @@ import path from 'path'
 import Link from 'next/link'
 import getMetadata from 'gray-matter'
 import { postFilePaths, POSTS_PATH } from '../../lib/utils/mdx-utils'
+import MainHeader from '../../lib/features/navigation/main-header'
+import Page from '../../lib/components/page'
 
 const Posts = ({ posts }) => {
-  return posts.map((post) => (
-    <Link
-      key={post.filePath}
-      as={`/posts/${post.filePath.replace(/\.mdx?$/, '')}`}
-      href={`/posts/[slug]`}>
-      {post.data.title}
-    </Link>
-  ))
+  return (
+    <Page size="mini">
+      <MainHeader />
+      <Page.Content>
+        {posts.map((post) => (
+          <Link
+            key={post.filePath}
+            as={`/posts/${post.filePath.replace(/\.mdx?$/, '')}`}
+            href={`/posts/[slug]`}>
+            {post.data.title}
+          </Link>
+        ))}
+      </Page.Content>
+    </Page>
+  )
 }
 
 export function getStaticProps() {
