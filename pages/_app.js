@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react'
 import Head from 'next/head'
+import Normalize from '../lib/components/normalize'
+import { ThemeProvider } from '../lib/components/themes'
 
 const App = ({ Component, pageProps }) => {
   return (
@@ -7,7 +9,10 @@ const App = ({ Component, pageProps }) => {
       <Head>
         <title>Moa Torres – Portfolio</title>
       </Head>
-      <Component {...pageProps} />
+      <ThemeProvider>
+        <Normalize />
+        <Component {...pageProps} />
+      </ThemeProvider>
     </Fragment>
   )
 }
