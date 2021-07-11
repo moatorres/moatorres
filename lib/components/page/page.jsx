@@ -1,9 +1,9 @@
-import React, { useMemo } from 'react'
+import React, { Fragment, useMemo } from 'react'
 import { useTheme } from '../themes'
 import { hasChild } from '../../utils/has-child'
 import PageContent from './page-content'
+import Head from '../head'
 
-// adapted from the amazing geist-ui/react
 const getPageSize = (size, layout) => {
   const presets = {
     medium: layout.pageWidth,
@@ -26,20 +26,23 @@ const Page = ({ children, size = 'medium', className, ...props }) => {
   const hasContent = hasChild(children, PageContent)
 
   return (
-    <section className={className} {...props}>
-      {hasContent ? children : <PageContent>{children}</PageContent>}
-      <style jsx>{`
-        section {
-          width: ${width};
-          max-width: 100vw;
-          min-height: 100vh;
-          margin: 0 auto;
-          padding: 0 ${theme.layout.gap};
-          box-sizing: border-box;
-          position: relative;
-        }
-      `}</style>
-    </section>
+    <Fragment>
+      <Head />
+      <section className={className} {...props}>
+        {hasContent ? children : <PageContent>{children}</PageContent>}
+        <style jsx>{`
+          section {
+            width: ${width};
+            max-width: 100vw;
+            min-height: 100vh;
+            margin: 0 auto;
+            padding: 0 ${theme.layout.gap};
+            box-sizing: border-box;
+            position: relative;
+          }
+        `}</style>
+      </section>
+    </Fragment>
   )
 }
 
