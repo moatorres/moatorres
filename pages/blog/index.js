@@ -2,9 +2,9 @@ import fs from 'fs'
 import path from 'path'
 import Link from 'next/link'
 import getMetadata from 'gray-matter'
-import { postFilePaths, POSTS_PATH } from '../../lib/utils/mdx-utils'
-import MainHeader from '../../lib/features/navigation/main-header'
-import Page from '../../lib/components/page'
+import { postFilePaths, POSTS_PATH } from '@utils/mdx-utils'
+import MainHeader from '@features/navigation/main-header'
+import Page from '@components/page'
 
 const Posts = ({ posts }) => {
   return (
