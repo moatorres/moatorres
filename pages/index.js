@@ -1,6 +1,7 @@
 import React from 'react'
-import Page from '../lib/components/page'
-import MainHeader from '../lib/features/navigation/main-header'
+import Page from '@components/page'
+import MainHeader from '@features/navigation/main-header'
+import Link from '@components/link'
 
 const Home = () => {
   return (
@@ -16,7 +17,11 @@ const Home = () => {
         <p style={{ textAlign: 'justify' }}>
           You've found my personal spot on the internet. This is where I share
           some of the projects I'm working on as well as lessons learnt on the
-          go. You can sign my guestbook or learn more about me.
+          go. You can also{' '}
+          <Link href="/about" color>
+            learn more about me here
+          </Link>
+          .
         </p>
       </Page.Content>
     </Page>
