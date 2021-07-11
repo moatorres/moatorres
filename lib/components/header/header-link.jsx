@@ -1,11 +1,11 @@
 import React from 'react'
 import { useTheme } from '../themes'
 
-const HeaderLink = ({ children, ...props }) => {
+const HeaderLink = ({ children, active = false, className, ...props }) => {
   const theme = useTheme()
 
   return (
-    <a className="header-link" {...props}>
+    <a className={`header-link ${active && 'active'} ${className} `} {...props}>
       {children}
       <style jsx>{`
         .header-link {
@@ -19,6 +19,7 @@ const HeaderLink = ({ children, ...props }) => {
           margin-right: ${theme.layout.gapHalf};
           transition: all linear 75ms;
         }
+        .active,
         .header-link:hover,
         .header-link:focus {
           color: ${theme.colors.blue[4]};
