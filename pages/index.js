@@ -18,11 +18,7 @@ const Home = () => {
         <p style={{ textAlign: 'justify' }}>
           You've found my personal spot on the internet. This is where I share
           some of the projects I'm working on as well as lessons learnt on the
-          go. You can also{' '}
-          <Link href="/about" color>
-            learn more about me here
-          </Link>
-          .
+          go. You can also <Link href="/about">learn more about me here</Link>.
         </p>
         <h2 style={{ fontWeight: '700' }}>Most Popular</h2>
         <Card>
