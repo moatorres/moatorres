@@ -5,19 +5,25 @@ import getMetadata from 'gray-matter'
 import { postFilePaths, POSTS_PATH } from '@utils/mdx-utils'
 import MainHeader from '@features/navigation/main-header'
 import Page from '@components/page'
+import Card from '@components/card'
 
 const Posts = ({ posts }) => {
   return (
     <Page size="mini">
       <MainHeader />
       <Page.Content>
+        <h1>Blog</h1>
         {posts.map((post) => (
-          <Link
-            key={post.filePath}
-            as={`/blog/${post.filePath.replace(/\.mdx?$/, '')}`}
-            href={`/blog/[slug]`}>
-            {post.data.title}
-          </Link>
+          <Card key={post.filePath}>
+            <h3>
+              <Link
+                as={`/blog/${post.filePath.replace(/\.mdx?$/, '')}`}
+                href={`/blog/[slug]`}>
+                {post.data.title}
+              </Link>
+            </h3>
+            {post.data.description}
+          </Card>
         ))}
       </Page.Content>
     </Page>
