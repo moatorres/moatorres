@@ -38,8 +38,6 @@ const Link = React.forwardRef(
 
 Link.defaultProps = {
   href: '#',
-  color: false,
-  underline: false,
   block: false,
   className: '',
 }
