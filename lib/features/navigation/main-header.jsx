@@ -22,7 +22,7 @@ const MainHeader = () => {
       <Header.Item style={{ justifyContent: 'flex-end' }}>
         {menu.map((item, index) => (
           <Header.Link
-            id={index}
+            key={index}
             href={item.path}
             active={router.pathname === item.path}>
             {item.title}
