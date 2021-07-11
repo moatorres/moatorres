@@ -6,7 +6,9 @@ const About = () => {
   return (
     <Page size="mini">
       <MainHeader />
-      <Page.Content>About Page</Page.Content>
+      <Page.Content>
+        <h1>About</h1>
+      </Page.Content>
     </Page>
   )
 }
