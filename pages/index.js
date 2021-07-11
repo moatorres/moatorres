@@ -2,6 +2,7 @@ import React from 'react'
 import Page from '@components/page'
 import MainHeader from '@features/navigation/main-header'
 import Link from '@components/link'
+import Card from '@components/card'
 
 const Home = () => {
   return (
@@ -23,6 +24,28 @@ const Home = () => {
           </Link>
           .
         </p>
+        <h2 style={{ fontWeight: '700' }}>Most Popular</h2>
+        <Card>
+          <h3>Everything you wanted to know about React and Next.js</h3>
+          <p style={{ textAlign: 'justify' }}>
+            Let's examine the tips and tricks about Next.js, Vercel's React
+            Framework
+          </p>
+        </Card>
+        <Card>
+          <h3>Everything you wanted to know about React and Next.js</h3>
+          <p style={{ textAlign: 'justify' }}>
+            Let's examine the tips and tricks about Next.js, Vercel's React
+            Framework
+          </p>
+        </Card>
+        <Card>
+          <h3>Everything you wanted to know about React and Next.js</h3>
+          <p style={{ textAlign: 'justify' }}>
+            Let's examine the tips and tricks about Next.js, Vercel's React
+            Framework
+          </p>
+        </Card>
       </Page.Content>
     </Page>
   )
