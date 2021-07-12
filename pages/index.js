@@ -1,14 +1,18 @@
 import React from 'react'
+
 import Page from '@components/page'
-import MainHeader from '@features/navigation/main-header'
 import Link from '@components/link'
 import Card from '@components/card'
+
+import MainHeader from '@features/navigation/main-header'
+import Menu from '@features/menu/menu'
 
 const Home = () => {
   return (
     <Page size="mini">
       <MainHeader />
       <Page.Content>
+        {/* <Menu /> */}
         <h1>Hey, I'm Moa Torres 👋 </h1>
         <h4 style={{ textAlign: 'justify' }}>
           I'm a self-taught developer passionate about Node.js and React. I
