@@ -4,6 +4,7 @@ import Header from '@components/header'
 import Avatar from '@components/avatar'
 import { useShortcuts } from '@components/shortcuts'
 import ScrollBar from '@components/scrollbar'
+import Menu from '../menu/menu'
 
 const menu = [
   { title: 'Blog', path: '/blog' },
@@ -18,11 +19,7 @@ const MainHeader = () => {
   return (
     <Header>
       <ScrollBar />
-      <Header.Item>
-        <Header.Link href="/">
-          <Avatar src="https://avatars.githubusercontent.com/u/44585769?v=4" />
-        </Header.Link>
-      </Header.Item>
+      <Menu />
       <Header.Item style={{ justifyContent: 'flex-end' }}>
         {menu.map((item, index) => (
           <Header.Link
