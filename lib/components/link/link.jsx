@@ -28,7 +28,7 @@ const Link = React.forwardRef(
             text-decoration: ${decoration};
           }
           .link:hover {
-            color: ${theme.colors.success.light};
+            color: ${theme.expressiveness.linkHoverStyle};
           }
         `}</style>
       </a>
