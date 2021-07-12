@@ -1,15 +1,8 @@
+# [moatorres.com](https://moatorres.vercel.app)
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmoatorres%2Fmoatorres.com)
 
-# ⚡️ moatorres.com
-
-My portfolio site made with Next.js, React and MDX.
-
-## Overview
-
-- `/blog/*`
-- `/dashboard`
-- `/live`
-- `/*`
+Personal website built with [Next.js](https://nextjs.org/), [MDX](https://mdxjs.com/) and [`styled-jsx`](https://github.com/vercel/styled-jsx).
 
 ## Running Locally
 
@@ -22,8 +15,4 @@ $ yarn dev
 
 Create a `.env` file similar to [`.env.example`](https://github.com/moatorres/moatorres.com/blob/master/.env.example)
 
-## Stack
-
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org)
-- [MDX](https://github.com/mdx-js/mdx)
+<sub>`< >` with ❤️ by [Moa](https://github.com/moatorres)</sub>
