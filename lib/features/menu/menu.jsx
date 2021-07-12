@@ -35,8 +35,9 @@ const Menu = () => {
         isOpen={isOpen}
         initialFocusRef={initialFocusRef}
         onDismiss={handleClose}>
-        <Dialog.Header ref={initialFocusRef}>
+        <Dialog.Header>
           <input
+            ref={initialFocusRef}
             onChange={handleSearch}
             placeholder="Type a command or search..."
             className="search"
@@ -81,6 +82,7 @@ const Menu = () => {
         width: 100%;
         border: 0;
         font-size: 1;
+        -webkit-transform: translate3d(0,0,0)
       }
       .menu-item {
         display: flex;
