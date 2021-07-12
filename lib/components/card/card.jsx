@@ -30,7 +30,6 @@ const Card = ({
       {children}
       <style jsx>{`
         .card {
-          background: ${theme.colors.background};
           padding: ${shadow ? theme.layout.gap : '0.625rem 0 0.625rem 0'};
           width: ${width};
           transition: all 0.2s ease;
@@ -38,7 +37,6 @@ const Card = ({
           box-shadow: ${shadow ? theme.expressiveness.shadowSmall : 'none'};
           box-sizing: border-box;
           color: ${theme.colors.foreground};
-          background-color: ${theme.colors.background};
           cursor: pointer;
           text-transform: capitalize;
         }
