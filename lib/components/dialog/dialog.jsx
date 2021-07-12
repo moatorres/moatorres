@@ -45,6 +45,10 @@ const Dialog = ({
           cursor: pointer;
           background: transparent;
         }
+        .content {
+          overflow-y: auto;
+          max-height: 40vh;
+        }
       `}</style>
     </Fragment>
   ) : null
