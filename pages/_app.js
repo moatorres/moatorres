@@ -7,7 +7,7 @@ const App = ({ Component, pageProps }) => {
   return (
     <Fragment>
       <Head />
-      <ThemeProvider>
+      <ThemeProvider themeType="light">
         <Normalize />
         <Component {...pageProps} />
       </ThemeProvider>
