@@ -1,14 +1,12 @@
 import React, { Fragment } from 'react'
-import Head from 'next/head'
-import Normalize from '../lib/components/normalize'
-import { ThemeProvider } from '../lib/components/themes'
+import Head from '@components/head'
+import Normalize from '@components/normalize'
+import { ThemeProvider } from '@components/themes'
 
 const App = ({ Component, pageProps }) => {
   return (
     <Fragment>
-      <Head>
-        <title>Moa Torres – Portfolio</title>
-      </Head>
+      <Head />
       <ThemeProvider>
         <Normalize />
         <Component {...pageProps} />
