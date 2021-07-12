@@ -9,9 +9,9 @@ const Menu = () => {
   const theme = useTheme()
 
   const menu = [
-    { title: '💁🏻‍♂️ About', path: '/about' },
-    { title: '📝 Blog', path: '/blog' },
-    { title: '🏠 Home', path: '/' },
+    { title: 'About', path: '/about' },
+    { title: 'Blog', path: '/blog' },
+    { title: 'Home', path: '/' },
   ]
   const [items, setItems] = useState(menu)
   const handleClose = () => {
@@ -21,7 +21,9 @@ const Menu = () => {
 
   const handleSearch = (e) => {
     e.preventDefault()
-    setItems(menu.filter((item) => item.path.includes(e.target.value)))
+    setItems(
+      menu.filter((item) => item.title.toLowerCase().includes(e.target.value))
+    )
   }
 
   return (
@@ -42,21 +44,32 @@ const Menu = () => {
             type="text"
           />
         </Dialog.Header>
-
-        {items.map((item, index) => {
-          return (
-            <div key={index} className="menu-item">
-              <a
-                href={item.path}
-                className="menu-item-link"
-                onClick={handleClose}>
-                {item.title}
-              </a>
-            </div>
-          )
-        })}
+        <div className="container">
+          <div className="container-content">
+            {items.map((item, index) => {
+              return (
+                <div key={index} className="menu-item">
+                  <a
+                    href={item.path}
+                    className="menu-item-link"
+                    onClick={handleClose}>
+                    {item.title}
+                  </a>
+                </div>
+              )
+            })}
+          </div>
+        </div>
       </Dialog>
       <style jsx>{`
+      .container {
+        overflow-y: auto;
+        border-radius: ${theme.layout.radius};
+      }
+      .container-content {
+        overflow-x: hidden;
+        max-height: calc(40vh - 61px);
+      }
       .search {
         padding: 0;
         margin-left: ${theme.layout.gap};
@@ -76,7 +89,6 @@ const Menu = () => {
         height 60px;
         border: 0;
         font-size: 1;
-        margin: auto ${theme.layout.gap} auto ${theme.layout.gap};
       }
       .menu-item:first-child {
         border-radius: ${theme.layout.radius} ${theme.layout.radius} 0 0;
@@ -88,6 +100,7 @@ const Menu = () => {
         line-height: 4;
         width: 100%;
         cursor: pointer;
+        padding: 0 ${theme.layout.gap} 0 ${theme.layout.gap};
       }
       .menu-item-link:last-child {
         border-radius: 0 0 ${theme.layout.radius} ${theme.layout.radius};
@@ -95,6 +108,11 @@ const Menu = () => {
       .menu-item-link:hover{
         color: ${theme.colors.foreground};
       }
+      @media screen and (max-width: ${theme.breakpoints.sm.max}) {
+          .container {
+            max-height: 80vh;
+          }
+        }
       `}</style>
     </Fragment>
   )
