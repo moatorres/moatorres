@@ -13,6 +13,7 @@ const HeaderItem = ({ children, ...props }) => {
           align-items: center;
           margin-right: 0.5rem;
           justify-content: space-between;
+          font-size: 1.25rem;
         }
         .header-item:last-child {
           margin-right: 0 !important;

@@ -13,12 +13,17 @@ const Header = ({ children, ...props }) => {
           display: flex;
           flex-wrap: nowrap;
           align-items: center;
-          font-size: 1.25rem;
           color: ${theme.colors.foreground};
           line-height: ${theme.lineHeight.default};
           background-filter: saturate(150%) blur(10px);
           padding-top: calc(${theme.layout.gap} * 3.725);
           padding-bottom: ${theme.layout.gap};
+        }
+
+        @media screen and (max-width: ${theme.breakpoints.sm.max}) {
+          .header {
+            padding-top: calc(${theme.layout.gap} * 2);
+          }
         }
       `}</style>
     </div>
