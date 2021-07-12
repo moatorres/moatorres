@@ -20,7 +20,7 @@ const Header = ({ children, ...props }) => {
           padding-bottom: ${theme.layout.gap};
         }
 
-        @media screen and (max-width: ${theme.breakpoints.sm.max}) {
+        @media screen and (max-width: ${theme.breakpoints.sm.min}) {
           .header {
             padding-top: calc(${theme.layout.gap} * 2);
           }
