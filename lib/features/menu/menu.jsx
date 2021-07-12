@@ -82,7 +82,6 @@ const Menu = () => {
         width: 100%;
         border: 0;
         font-size: 1;
-        -webkit-transform: translate3d(0,0,0)
       }
       .menu-item {
         display: flex;

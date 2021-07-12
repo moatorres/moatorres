@@ -10,7 +10,7 @@ const DialogBase = ({ children, ...props }) => {
         .dialog-base {
           box-shadow: ${theme.expressiveness.shadowLarge};
           border-radius: ${theme.layout.radius};
-          position: fixed;
+          position: absolute;
           top: 0;
           left: 50%;
           transform: translateX(-50%);
