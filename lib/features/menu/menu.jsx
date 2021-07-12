@@ -35,9 +35,8 @@ const Menu = () => {
         isOpen={isOpen}
         initialFocusRef={initialFocusRef}
         onDismiss={handleClose}>
-        <Dialog.Header>
+        <Dialog.Header ref={initialFocusRef}>
           <input
-            ref={initialFocusRef}
             onChange={handleSearch}
             placeholder="Type a command or search..."
             className="search"
