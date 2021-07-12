@@ -1,12 +1,12 @@
-import React, { Fragment, useRef, useState } from 'react'
+import React, { Fragment, useEffect, useRef, useState } from 'react'
 import Dialog from '@components/dialog/dialog'
 import { useTheme } from '@components/themes'
 import CommandIcon from '@components/icons/command'
 
 const Menu = () => {
   const [isOpen, setIsOpen] = useState(false)
-  const initialFocus = useRef(null)
   const theme = useTheme()
+  const initialFocusRef = useRef(null)
 
   const menu = [
     { title: 'About', path: '/about' },
@@ -33,11 +33,11 @@ const Menu = () => {
       </div>
       <Dialog
         isOpen={isOpen}
-        initialFocusRef={initialFocus}
+        initialFocusRef={initialFocusRef}
         onDismiss={handleClose}>
         <Dialog.Header>
           <input
-            ref={initialFocus}
+            ref={initialFocusRef}
             onChange={handleSearch}
             placeholder="Type a command or search..."
             className="search"
