@@ -109,7 +109,8 @@ const Menu = () => {
         color: ${theme.colors.foreground};
       }
       @media screen and (max-width: ${theme.breakpoints.sm.max}) {
-          .container {
+          .container,
+          .container-content {
             max-height: 80vh;
           }
         }
