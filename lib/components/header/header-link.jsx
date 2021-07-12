@@ -17,12 +17,14 @@ const HeaderLink = ({ children, active = false, className, ...props }) => {
           display: flex;
           align-items: center;
           margin-right: ${theme.layout.gapHalf};
-          transition: all linear 75ms;
+          transition: all linear 0.2s;
         }
-        .active,
         .header-link:hover,
         .header-link:focus {
-          color: ${theme.colors.blue[4]};
+          color: ${theme.colors.link};
+        }
+        .active {
+          font-weight: 700;
         }
         .header-link:last-child {
           margin-right: 0;

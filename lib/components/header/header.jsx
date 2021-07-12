@@ -17,7 +17,7 @@ const Header = ({ children, ...props }) => {
           color: ${theme.colors.foreground};
           line-height: ${theme.lineHeight.default};
           background-filter: saturate(150%) blur(10px);
-          padding-top: ${theme.layout.gap};
+          padding-top: calc(${theme.layout.gap} * 3.725);
           padding-bottom: ${theme.layout.gap};
         }
       `}</style>
