@@ -20,7 +20,7 @@ const DialogHeader = ({ children, ...props }) => {
           background: ${theme.colors.background};
           font-size: 14px;
           font-weight: ${theme.fontWeight.bold};
-          border-radius: ${theme.layout.radius} ${theme.layout.radius} 0 0;
+          border-radius: ${theme.layout.radius};
           border-bottom: 1px solid
             ${isLight ? theme.colors.gray[2] : theme.colors.gray[8]};
         }

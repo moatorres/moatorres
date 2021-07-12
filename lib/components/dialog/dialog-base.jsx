@@ -21,7 +21,7 @@ const DialogBase = ({ children, ...props }) => {
           outline: none;
           transition: all 0.2s ease;
         }
-        @media screen and (max-width: ${theme.breakpoints.sm.max}) {
+        @media screen and (max-width: ${theme.breakpoints.sm.min}) {
           .dialog-base {
             width: 100vw;
             margin: auto auto 0 auto;
