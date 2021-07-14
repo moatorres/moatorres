@@ -2,7 +2,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmoatorres%2Fmoatorres.com)
 
-Personal website built with [Next.js](https://nextjs.org/), [MDX](https://mdxjs.com/) and [`styled-jsx`](https://github.com/vercel/styled-jsx).
+Personal website built with [`react`](https://reactjs.org/), [`next`](https://nextjs.org/) and [`styled-jsx`](https://github.com/vercel/styled-jsx).
 
 ## Running Locally
 
