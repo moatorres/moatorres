@@ -4,7 +4,7 @@ import MainHeader from '@features/navigation/main-header'
 
 const Projects = () => {
   return (
-    <Page size="mini">
+    <Page title="Projects" size="mini">
       <MainHeader />
       <Page.Content>
         <h1>Projects</h1>
