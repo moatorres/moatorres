@@ -4,7 +4,7 @@ import MainHeader from '@features/navigation/main-header'
 
 const About = () => {
   return (
-    <Page size="mini">
+    <Page title="Blog" size="mini">
       <MainHeader />
       <Page.Content>
         <h1>About</h1>
