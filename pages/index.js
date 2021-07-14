@@ -1,4 +1,8 @@
+import fs from 'fs'
+import path from 'path'
 import React from 'react'
+import getMetadata from 'gray-matter'
+import { postFilePaths, POSTS_PATH } from '@utils/mdx-utils'
 
 import Page from '@components/page'
 import Link from '@components/link'
@@ -6,7 +10,7 @@ import Card from '@components/card'
 
 import MainHeader from '@features/navigation/main-header'
 
-const Home = () => {
+const Home = ({ posts }) => {
   return (
     <Page size="mini">
       <MainHeader />
@@ -22,31 +26,32 @@ const Home = () => {
           some of the projects I'm working on as well as lessons learnt on the
           go. You can also <Link href="/about">learn more about me here</Link>.
         </p>
-        <h2 style={{ fontWeight: '700' }}>Most Popular</h2>
-        <Card>
-          <h3>Everything you wanted to know about React and Next.js</h3>
-          <p style={{ textAlign: 'justify' }}>
-            Let's examine the tips and tricks about Next.js, Vercel's React
-            Framework
-          </p>
-        </Card>
-        <Card>
-          <h3>Everything you wanted to know about React and Next.js</h3>
-          <p style={{ textAlign: 'justify' }}>
-            Let's examine the tips and tricks about Next.js, Vercel's React
-            Framework
-          </p>
-        </Card>
-        <Card>
-          <h3>Everything you wanted to know about React and Next.js</h3>
-          <p style={{ textAlign: 'justify' }}>
-            Let's examine the tips and tricks about Next.js, Vercel's React
-            Framework
-          </p>
-        </Card>
+        <h2 style={{ fontWeight: '700', paddingTop: '2rem' }}>Most Popular</h2>
+        {posts.map((post) => (
+          <Card key={post.filePath}>
+            <h3>
+              <Link
+                as={`/blog/${post.filePath.replace(/\.mdx?$/, '')}`}
+                href={`/blog/${post.data.slug}`}>
+                {post.data.title}
+              </Link>
+            </h3>
+            {post.data.description}
+          </Card>
+        ))}
       </Page.Content>
     </Page>
   )
+}
+
+export function getStaticProps() {
+  const posts = postFilePaths.map((filePath) => {
+    const source = fs.readFileSync(path.join(POSTS_PATH, filePath))
+    const { content, data } = getMetadata(source)
+    return { content, data, filePath }
+  })
+
+  return { props: { posts } }
 }
 
 export default Home
