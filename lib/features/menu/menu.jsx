@@ -1,7 +1,6 @@
-import React, { Fragment, useEffect, useRef, useState } from 'react'
+import React, { Fragment, useRef, useState } from 'react'
 import Dialog from '@components/dialog/dialog'
 import { useTheme } from '@components/themes'
-import CommandIcon from '@components/icons/command'
 
 const Menu = () => {
   const [isOpen, setIsOpen] = useState(false)
@@ -12,8 +11,12 @@ const Menu = () => {
     { title: 'About', path: '/about' },
     { title: 'Blog', path: '/blog' },
     { title: 'Home', path: '/' },
+    { title: 'Projects', path: '/projects' },
+    { title: 'Snippets', path: '/snippets' },
   ]
+
   const [items, setItems] = useState(menu)
+
   const handleClose = () => {
     setIsOpen(false)
     setItems(menu)
@@ -28,9 +31,9 @@ const Menu = () => {
 
   return (
     <Fragment>
-      <div onClick={() => setIsOpen(true)}>
-        <CommandIcon style={{ margin: 'auto' }} />
-      </div>
+      <a onClick={() => setIsOpen(true)}>
+        <h2 style={{ margin: '0', lineHeight: '1' }}>∀</h2>
+      </a>
       <Dialog
         isOpen={isOpen}
         initialFocusRef={initialFocusRef}
@@ -39,7 +42,7 @@ const Menu = () => {
           <input
             ref={initialFocusRef}
             onChange={handleSearch}
-            placeholder="Type a command or search..."
+            placeholder="Type to search..."
             className="search"
             type="text"
           />
