@@ -8,6 +8,7 @@ import { postFilePaths, POSTS_PATH } from '@utils/mdx-utils'
 
 import Page from '@components/page'
 import MainHeader from '@features/navigation/main-header'
+import Avatar from '@components/avatar/avatar'
 
 const components = { Head }
 
@@ -16,7 +17,19 @@ const PostPage = ({ source, meta }) => {
     <Page size="mini">
       <MainHeader />
       <Page.Content>
-        <h1>{meta.title}</h1>
+        <h1 style={{ lineHeight: '1' }}>{meta.title}</h1>
+        <div
+          style={{
+            padding: '1rem 0 1rem 0',
+            alignItems: 'center',
+            display: 'flex',
+          }}>
+          <Avatar
+            src="https://avatars.githubusercontent.com/u/44585769?v=4"
+            style={{ marginRight: '1rem' }}
+          />
+          Moa Torres • {meta.date}
+        </div>
         <MDXRemote {...source} components={components} />
       </Page.Content>
     </Page>
