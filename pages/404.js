@@ -7,7 +7,7 @@ import MainHeader from '@features/navigation/main-header'
 const NotFound = () => {
   const router = useRouter()
   return (
-    <Page size="mini" title="404 — Moa Torres">
+    <Page size="mini" title="404">
       <MainHeader />
       <Page.Content>
         <h1 style={{ fontSize: '6rem', lineHeight: '1', color: '#6146d8' }}>

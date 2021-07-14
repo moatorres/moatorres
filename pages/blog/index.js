@@ -9,7 +9,7 @@ import Card from '@components/card'
 
 const Posts = ({ posts }) => {
   return (
-    <Page size="mini">
+    <Page title="Blog" size="mini">
       <MainHeader />
       <Page.Content>
         <h1>Blog</h1>
