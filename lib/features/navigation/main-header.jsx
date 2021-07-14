@@ -1,7 +1,6 @@
 import React from 'react'
 import { useRouter } from 'next/router'
 import Header from '@components/header'
-import Avatar from '@components/avatar'
 import { useShortcuts } from '@components/shortcuts'
 import ScrollBar from '@components/scrollbar'
 import Menu from '../menu/menu'
@@ -9,7 +8,7 @@ import Menu from '../menu/menu'
 const menu = [
   { title: 'Blog', path: '/blog' },
   { title: 'About', path: '/about' },
-  { title: 'Home', path: '/' },
+  { title: 'Projects', path: '/projects' },
 ]
 
 const MainHeader = () => {
