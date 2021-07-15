@@ -26,27 +26,26 @@ const Dialog = ({
 
   return isOpen ? (
     <Fragment>
-      <Overlay ref={overlayRef}>
-        <DialogBase {...props}>
-          {children}
-          <button
-            className="button-close"
-            ref={closeButtonRef}
-            onClick={onDismiss}>
-            x
-          </button>
-        </DialogBase>
-        <style jsx>{`
-          .button-close {
-            position: absolute;
-            top: 1rem;
-            right: 1rem;
-            border: none;
-            cursor: pointer;
-            background: transparent;
-          }
-        `}</style>
-      </Overlay>
+      <Overlay ref={overlayRef} />
+      <DialogBase {...props}>
+        {children}
+        <button
+          className="button-close"
+          ref={closeButtonRef}
+          onClick={onDismiss}>
+          x
+        </button>
+      </DialogBase>
+      <style jsx>{`
+        .button-close {
+          position: absolute;
+          top: 1rem;
+          right: 1rem;
+          border: none;
+          cursor: pointer;
+          background: transparent;
+        }
+      `}</style>
     </Fragment>
   ) : null
 }
