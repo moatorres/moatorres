@@ -16,7 +16,18 @@ const getPageSize = (size, layout) => {
   return presetValue
 }
 
-const Page = ({ children, size = 'medium', className, title, ...props }) => {
+const Page = ({
+  children,
+  size = 'medium',
+  className,
+  title,
+  description,
+  footer = true,
+  header = true,
+  showHeaderTitle = true,
+  image,
+  ...props
+}) => {
   const theme = useTheme()
   const width = useMemo(
     () => getPageSize(size, theme.layout),
@@ -27,7 +38,7 @@ const Page = ({ children, size = 'medium', className, title, ...props }) => {
 
   return (
     <Fragment>
-      <Head title={title} />
+      <Head title={`${title ? `${title} — ` : ''}Moa Torres`} />
       <section className={className} {...props}>
         {hasContent ? children : <PageContent>{children}</PageContent>}
         <style jsx>{`
