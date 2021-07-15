@@ -19,6 +19,7 @@ const Button = forwardRef(({ onClick, children, disabled }, ref) => {
           display: flex;
           align-items: center;
           padding: ${theme.layout.gapQuarter} ${theme.layout.gapHalf};
+          transition: all linear 0.2s;
         }
 
         .button:hover,
