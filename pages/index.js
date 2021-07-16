@@ -3,19 +3,22 @@ import path from 'path'
 import React from 'react'
 import getMetadata from 'gray-matter'
 import { postFilePaths, POSTS_PATH } from '@utils/mdx-utils'
+import { useTheme } from '@components/themes'
 
 import Page from '@components/page'
 import Link from '@components/link'
 import Card from '@components/card'
 
 import MainHeader from '@features/navigation/main-header'
+import Tag from 'components/tag'
 
 const Home = ({ posts }) => {
+  const theme = useTheme()
   return (
     <Page size="mini">
       <MainHeader />
       <Page.Content>
-        <h1>Hey, I'm Moa Torres 👋 </h1>
+        <h1 style={{ color: theme.colors.link }}>Hey, I'm Moa Torres 👋</h1>
         <h4 style={{ textAlign: 'justify' }}>
           I'm a self-taught developer passionate about Node.js and React. I
           strive to build high-end scalable applications with JavaScript and
@@ -29,6 +32,7 @@ const Home = ({ posts }) => {
         <h2 style={{ fontWeight: '700', paddingTop: '2rem' }}>Most Popular</h2>
         {posts.map((post) => (
           <Card key={post.filePath}>
+            <Tag title="New" />
             <h3>
               <Link
                 as={`/blog/${post.filePath.replace(/\.mdx?$/, '')}`}
@@ -55,3 +59,6 @@ export function getStaticProps() {
 }
 
 export default Home
+
+// 223509030
+// jiKfen-mowwis-3zogsy
