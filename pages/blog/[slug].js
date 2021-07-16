@@ -41,7 +41,10 @@ export const getStaticProps = async ({ params }) => {
   const post = fs.readFileSync(postFilePath)
   const { content, data } = getMetadata(post)
 
-  const source = await serialize(content, { scope: data })
+  const source = await serialize(content, {
+    scope: data,
+    mdxOptions: {},
+  })
 
   return {
     props: {
