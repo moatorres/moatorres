@@ -168,12 +168,12 @@ export default function normalize() {
         content: '\`';
       }
       pre {
-        border: 1px solid ${theme.colors.gray[2]};
+        border: 1px solid ${theme.colors.codeBg};
         border-radius: ${theme.layout.radius};
         padding: calc(${theme.layout.gap} * 0.75) ${theme.layout.gap};
         margin: ${theme.layout.gap} 0;
         font-family: ${theme.fontFamily.code};
-        background: #0c2e4e;
+        background: #1f2126; /* #0c2e4e */
         white-space: pre;
         overflow: auto;
         line-height: 1.5;
@@ -182,7 +182,7 @@ export default function normalize() {
         -webkit-overflow-scrolling: touch;
       }
       pre code {
-        color: #00d4ff;
+        color: ${theme.colors.codeFg}; /* #00f4ff */
         font-size: 0.8125rem;
         line-height: 1.25rem;
         white-space: pre;
@@ -233,8 +233,8 @@ export default function normalize() {
       }
       blockquote {
         padding: calc(0.667 * ${theme.layout.gap}) ${theme.layout.gap};
-        color: ${theme.colors.quoteFg};
-        background-color: ${theme.colors.quoteBg};
+        color: ${theme.colors.codeFg};
+        background-color: ${theme.colors.codeBg};
         border-radius: ${theme.layout.radius};
         margin: 1.5rem 0;
         border: 1px solid ${theme.colors.border};

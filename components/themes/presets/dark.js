@@ -9,7 +9,7 @@ const colors = {
   placeholder: '#6a737d',
   disabled: '#959da5',
   inverse: '#ffffff',
-  link: '#fafafa',
+  link: '#a299ff', // #fafafa
   danger: '#cb2431',
   success: '#22863a',
   warning: '#b08800',
@@ -18,6 +18,8 @@ const colors = {
   foreground: '#fafafa',
   quoteFg: defaultColors.gray[1],
   quoteBg: defaultColors.gray[9],
+  codeBg: '#333740',
+  codeFg: '#ebedf2',
 }
 
 export const expressiveness = {
