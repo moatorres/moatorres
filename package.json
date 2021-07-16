@@ -16,12 +16,17 @@
     "react"
   ],
   "dependencies": {
+    "@mapbox/rehype-prism": "^0.7.0",
+    "@mdx-js/loader": "^1.6.22",
+    "@next/mdx": "^11.0.1",
     "gray-matter": "^4.0.3",
     "next": "^11.0.1",
     "next-mdx-remote": "^3.0.2",
     "next-remote-watch": "^1.0.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "reading-time": "^1.3.0",
+    "swr": "^0.5.6"
   },
   "resolutions": {
     "remark-parse": "9.0.0",
