@@ -12,17 +12,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch wisdom quote
+      - name: Fetch zen quote
         run: |
           curl -s "https://zenquotes.io/api/random" | jq -r '.[0] | "**\"\(.q)\"**\n\n— _\(.a)_"' > README.md
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_EMAIL: ${{ secrets.USER_EMAIL }}
         run: |
           git config --global user.name "moatorres"
-          git config --global user.email "${USER_EMAIL}"
+          git config --global user.email "moatorres@users.noreply.github.com"
           git add README.md
-          git commit -m "chore(ci): updated wisdom quote" || echo "No changes to commit"
+          git commit -m "chore(ci): updated wisdom quote"
           git push
