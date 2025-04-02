@@ -1,3 +1,3 @@
-**"Good luck is opportunity meeting preparedness."**
+**"There is always risk, so learn to manage risk instead of avoiding it."**
 
-— _Deepak Chopra_
+— _Robert Kiyosaki_
