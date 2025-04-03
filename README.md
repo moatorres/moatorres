@@ -1,3 +1,3 @@
-**"There is always risk, so learn to manage risk instead of avoiding it."**
+**"It's not how much we give but how much love we put into giving."**
 
-— _Robert Kiyosaki_
+— _Mother Teresa_
