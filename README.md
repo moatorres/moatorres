@@ -1,3 +1,3 @@
-**"It's not how much we give but how much love we put into giving."**
+**"Living life in style also means living a life of balance."**
 
-— _Mother Teresa_
+— _Jim Rohn_
