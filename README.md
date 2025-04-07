@@ -1,3 +1,3 @@
-**"Living life in style also means living a life of balance."**
+**"Our truest life is when we are in dreams awake."**
 
-— _Jim Rohn_
+— _Henry David Thoreau_
