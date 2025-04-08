@@ -1,3 +1,3 @@
-**"Our truest life is when we are in dreams awake."**
+**"The friend is the man who knows all about you, and still likes you."**
 
-— _Henry David Thoreau_
+— _Elbert Hubbard_
