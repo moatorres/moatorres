@@ -1,3 +1,3 @@
-**"The friend is the man who knows all about you, and still likes you."**
+**"Dreams are for dreamers. Goals are for achievers."**
 
-— _Elbert Hubbard_
+— _Arnold Schwarzenegger_
