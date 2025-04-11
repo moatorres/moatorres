@@ -1,3 +1,3 @@
-**"If you do not change direction, you may end up where you are heading."**
+**"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."**
 
-— _Lao Tzu_
+— _Leonardo da Vinci_
