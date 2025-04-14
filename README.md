@@ -1,3 +1,3 @@
-**"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."**
+**"You can live a whole life time never being awake."**
 
-— _Leonardo da Vinci_
+— _Dan Millman_
