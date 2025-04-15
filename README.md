@@ -1,3 +1,3 @@
-**"You can live a whole life time never being awake."**
+**"Appear weak when you are strong, and strong when you are weak."**
 
-— _Dan Millman_
+— _Sun Tzu_
