@@ -1,3 +1,3 @@
-**"Appear weak when you are strong, and strong when you are weak."**
+**"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."**
 
-— _Sun Tzu_
+— _Robert Greene_
