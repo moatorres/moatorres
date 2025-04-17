@@ -1,3 +1,3 @@
-**"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."**
+**"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."**
 
-— _Robert Greene_
+— _Thich Nhat Hanh_
