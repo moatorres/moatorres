@@ -1,3 +1,3 @@
-**"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."**
+**"Sometimes things become possible if we want them bad enough."**
 
-— _Bob Proctor_
+— _T.S. Eliot_
