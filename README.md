@@ -1,3 +1,3 @@
-**"Sometimes things become possible if we want them bad enough."**
+**"If we did all the things we are capable of, we would literally astound ourselves."**
 
-— _T.S. Eliot_
+— _Thomas Edison_
