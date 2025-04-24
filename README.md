@@ -1,3 +1,3 @@
-**"If we did all the things we are capable of, we would literally astound ourselves."**
+**"Change will not come if we wait for some other person, or if we wait for some other time."**
 
-— _Thomas Edison_
+— _Barack Obama_
