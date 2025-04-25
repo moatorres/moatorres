@@ -1,3 +1,3 @@
-**"Change will not come if we wait for some other person, or if we wait for some other time."**
+**"Plants grow weak without wind."**
 
-— _Barack Obama_
+— _Maxime Lagace_
