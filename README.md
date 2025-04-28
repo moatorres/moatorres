@@ -1,3 +1,3 @@
-**"Plants grow weak without wind."**
+**"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."**
 
-— _Maxime Lagace_
+— _Robert F. Kennedy_
