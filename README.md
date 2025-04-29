@@ -1,3 +1,3 @@
-**"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."**
+**"The person who says something is impossible should not interrupt the person who is doing it."**
 
-— _Robert F. Kennedy_
+— _Chinese Proverb_
