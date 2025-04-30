@@ -1,3 +1,3 @@
-**"The person who says something is impossible should not interrupt the person who is doing it."**
+**"If you want to keep your memories, you first have to live them."**
 
-— _Chinese Proverb_
+— _Bob Dylan_
