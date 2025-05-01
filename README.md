@@ -1,3 +1,3 @@
-**"If you want to keep your memories, you first have to live them."**
+**"Before you can see the Light, you have to deal with the darkness."**
 
-— _Bob Dylan_
+— _Dan Millman_
