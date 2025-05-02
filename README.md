@@ -1,3 +1,3 @@
-**"Before you can see the Light, you have to deal with the darkness."**
+**"Success is like reaching an important birthday and finding you're exactly the same."**
 
-— _Dan Millman_
+— _Audrey Hepburn_
