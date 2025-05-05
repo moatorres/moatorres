@@ -1,3 +1,3 @@
-**"Success is like reaching an important birthday and finding you're exactly the same."**
+**"Ability is a poor man's wealth."**
 
-— _Audrey Hepburn_
+— _John Wooden_
