@@ -1,3 +1,3 @@
-**"Ability is a poor man's wealth."**
+**"When the root is strong, the fruit is sweet."**
 
-— _John Wooden_
+— _Bob Marley_
