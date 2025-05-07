@@ -1,3 +1,3 @@
-**"When the root is strong, the fruit is sweet."**
+**"It's not the men in your life that matters, it's the life in your men."**
 
-— _Bob Marley_
+— _Mae West_
