@@ -1,3 +1,3 @@
-**"It's not the men in your life that matters, it's the life in your men."**
+**"No need to hurry. No need to sparkle. No need to be anybody but oneself."**
 
-— _Mae West_
+— _Virginia Woolf_
