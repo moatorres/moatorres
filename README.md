@@ -1,3 +1,3 @@
-**"No need to hurry. No need to sparkle. No need to be anybody but oneself."**
+**"The best fighter is never angry."**
 
-— _Virginia Woolf_
+— _Lao Tzu_
