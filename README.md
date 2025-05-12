@@ -1,3 +1,3 @@
-**"The best fighter is never angry."**
+**"Every blessing ignored becomes a curse."**
 
-— _Lao Tzu_
+— _Paulo Coelho_
