@@ -1,3 +1,3 @@
-**"Every blessing ignored becomes a curse."**
+**"We build too many walls and not enough bridges."**
 
-— _Paulo Coelho_
+— _Isaac Newton_
