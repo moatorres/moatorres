@@ -1,3 +1,3 @@
-**"Change is not a four letter word...but often your reaction to it is!"**
+**"To avoid criticism, do nothing, say nothing, and be nothing."**
 
-— _Jeffrey Gitomer_
+— _Elbert Hubbard_
