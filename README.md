@@ -1,3 +1,3 @@
-**"To avoid criticism, do nothing, say nothing, and be nothing."**
+**"Your problem isn't the problem. Your reaction is the problem."**
 
-— _Elbert Hubbard_
+— _Unknown_
