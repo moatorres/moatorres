@@ -1,3 +1,3 @@
-**"Your problem isn't the problem. Your reaction is the problem."**
+**"Life has the name of life, but in reality it is death."**
 
-— _Unknown_
+— _Heraclitus_
