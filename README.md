@@ -1,3 +1,3 @@
-**"Life has the name of life, but in reality it is death."**
+**"To do great work one must be very idle as well as very industrious."**
 
-— _Heraclitus_
+— _Samuel Butler_
