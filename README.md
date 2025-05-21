@@ -1,3 +1,3 @@
-**"To do great work one must be very idle as well as very industrious."**
+**"Engage in those actions and thoughts that nurture the good qualities you want to have."**
 
-— _Samuel Butler_
+— _Paramahansa Yogananda_
