@@ -1,3 +1,3 @@
-**"Engage in those actions and thoughts that nurture the good qualities you want to have."**
+**"Doubt is an uncomfortable condition, but certainty is a ridiculous one."**
 
-— _Paramahansa Yogananda_
+— _Voltaire_
