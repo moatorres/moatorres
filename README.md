@@ -1,3 +1,3 @@
-**"Doubt is an uncomfortable condition, but certainty is a ridiculous one."**
+**"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."**
 
-— _Voltaire_
+— _Simon Sinek_
