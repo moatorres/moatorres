@@ -1,3 +1,3 @@
-**"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."**
+**"Only put off until tomorrow what you are willing to die having left undone."**
 
-— _Simon Sinek_
+— _Pablo Picasso_
