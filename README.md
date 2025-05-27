@@ -1,3 +1,3 @@
-**"Only put off until tomorrow what you are willing to die having left undone."**
+**"Every act of creation is first an act of destruction."**
 
 — _Pablo Picasso_
