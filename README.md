@@ -1,3 +1,3 @@
-**"Every act of creation is first an act of destruction."**
+**"If you always do what you've always done, you'll always get what you've always got. "**
 
-— _Pablo Picasso_
+— _Henry Ford_
