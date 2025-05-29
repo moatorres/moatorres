@@ -1,3 +1,3 @@
-**"If you always do what you've always done, you'll always get what you've always got. "**
+**"It's not what we do once in a while that shapes our lives, but what we do consistently."**
 
-— _Henry Ford_
+— _Tony Robbins_
