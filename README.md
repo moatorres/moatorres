@@ -1,3 +1,3 @@
-**"It's not what we do once in a while that shapes our lives, but what we do consistently."**
+**"A minute's success pays the failure of years."**
 
-— _Tony Robbins_
+— _Robert Browning_
