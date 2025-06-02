@@ -1,3 +1,3 @@
-**"A minute's success pays the failure of years."**
+**"There is only the one reality, neither to be realized nor attained."**
 
-— _Robert Browning_
+— _Huang Po_
