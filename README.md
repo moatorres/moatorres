@@ -1,3 +1,3 @@
-**"There is only the one reality, neither to be realized nor attained."**
+**"When you believe in a thing, believe in it all the way, implicitly and unquestionable."**
 
-— _Huang Po_
+— _Walt Disney_
