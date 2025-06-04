@@ -1,3 +1,3 @@
-**"When you believe in a thing, believe in it all the way, implicitly and unquestionable."**
+**"People who have goals succeed because they know where they're going. It's that simple."**
 
-— _Walt Disney_
+— _Earl Nightingale_
