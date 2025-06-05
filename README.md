@@ -1,3 +1,3 @@
-**"People who have goals succeed because they know where they're going. It's that simple."**
+**"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"**
 
-— _Earl Nightingale_
+— _Seneca_
