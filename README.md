@@ -1,3 +1,3 @@
-**"It's possible in ways both large or small to make a difference in someone's life."**
+**"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."**
 
-— _Yanni_
+— _Criss Jami_
