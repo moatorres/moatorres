@@ -1,3 +1,3 @@
-**"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."**
+**"Everyday you can take a tiny step in the right direction."**
 
-— _Criss Jami_
+— _Unknown_
