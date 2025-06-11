@@ -1,3 +1,3 @@
-**"Everyday you can take a tiny step in the right direction."**
+**"What is a friend? A single soul dwelling in two bodies."**
 
-— _Unknown_
+— _Aristotle_
