@@ -1,3 +1,3 @@
-**"What is a friend? A single soul dwelling in two bodies."**
+**"Learn the rules like a pro, so you can break them like an artist."**
 
-— _Aristotle_
+— _Pablo Picasso_
