@@ -1,3 +1,3 @@
-**"Learn the rules like a pro, so you can break them like an artist."**
+**"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "**
 
-— _Pablo Picasso_
+— _Ray Bradbury_
