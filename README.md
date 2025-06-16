@@ -1,3 +1,3 @@
-**"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "**
+**"When you win, say nothing, when you lose say less."**
 
-— _Ray Bradbury_
+— _Wayne Gretzky_
