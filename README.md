@@ -1,3 +1,3 @@
-**"When you win, say nothing, when you lose say less."**
+**"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"**
 
-— _Wayne Gretzky_
+— _Og Mandino_
