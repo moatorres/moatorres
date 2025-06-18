@@ -1,3 +1,3 @@
-**"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"**
+**"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."**
 
-— _Og Mandino_
+— _Arnold Schwarzenegger_
