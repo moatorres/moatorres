@@ -1,3 +1,3 @@
-**"Facts are the enemy of truth. "**
+**"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."**
 
-— _Miguel de Cervantes_
+— _William James_
