@@ -1,3 +1,3 @@
-**"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."**
+**"Keep your dreams, you never know when you might need them."**
 
-— _William James_
+— _Carlos Ruiz Zafon_
