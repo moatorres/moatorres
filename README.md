@@ -1,3 +1,3 @@
-**"Keep your dreams, you never know when you might need them."**
+**"No valid plans for the future can be made by those who have no capacity for living now."**
 
-— _Carlos Ruiz Zafon_
+— _Alan Watts_
