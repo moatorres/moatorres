@@ -1,3 +1,3 @@
-**"No valid plans for the future can be made by those who have no capacity for living now."**
+**"A clear conscience never fears midnight knocking."**
 
-— _Alan Watts_
+— _Chinese Proverb_
