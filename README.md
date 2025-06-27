@@ -1,3 +1,3 @@
-**"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."**
+**"Most great people have achieved their greatest success just one step beyond their greatest failure."**
 
-— _Abraham Lincoln_
+— _Napoleon Hill_
