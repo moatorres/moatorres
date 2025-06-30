@@ -1,3 +1,3 @@
-**"Most great people have achieved their greatest success just one step beyond their greatest failure."**
+**"Silence is sometimes the best answer."**
 
-— _Napoleon Hill_
+— _Dalai Lama_
