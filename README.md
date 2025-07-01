@@ -1,3 +1,3 @@
-**"Silence is sometimes the best answer."**
+**"Change is not a four letter word...but often your reaction to it is!"**
 
-— _Dalai Lama_
+— _Jeffrey Gitomer_
