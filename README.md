@@ -1,3 +1,3 @@
-**"Change is not a four letter word...but often your reaction to it is!"**
+**"He who cheats the earth will be cheated by the earth."**
 
-— _Jeffrey Gitomer_
+— _Chinese Proverb_
