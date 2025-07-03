@@ -1,3 +1,3 @@
-**"He who cheats the earth will be cheated by the earth."**
+**"Knowledge is a treasure, but practice is the key to it."**
 
-— _Chinese Proverb_
+— _Lao Tzu_
