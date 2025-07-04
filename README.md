@@ -1,3 +1,3 @@
-**"Knowledge is a treasure, but practice is the key to it."**
+**"See what you're doing wrong, laugh at it, change and do better."**
 
-— _Lao Tzu_
+— _Spencer Johnson_
