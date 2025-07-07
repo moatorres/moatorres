@@ -1,3 +1,3 @@
-**"See what you're doing wrong, laugh at it, change and do better."**
+**"The biggest room in the world is the room for improvement."**
 
-— _Spencer Johnson_
+— _Unknown_
