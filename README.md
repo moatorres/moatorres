@@ -1,3 +1,3 @@
-**"The biggest room in the world is the room for improvement."**
+**"When you believe in a thing, believe in it all the way, implicitly and unquestionable."**
 
-— _Unknown_
+— _Walt Disney_
