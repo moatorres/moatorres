@@ -1,3 +1,3 @@
-**"When you believe in a thing, believe in it all the way, implicitly and unquestionable."**
+**"No one ever is defeated until defeat has been accepted as a reality."**
 
-— _Walt Disney_
+— _Napoleon Hill_
