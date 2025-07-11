@@ -1,3 +1,3 @@
-**"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."**
+**"Life can be wonderful if you're not afraid of it."**
 
-— _Zig Ziglar_
+— _Charlie Chaplin_
