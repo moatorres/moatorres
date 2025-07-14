@@ -1,3 +1,3 @@
-**"Life can be wonderful if you're not afraid of it."**
+**"We will outstretch the hand if you unclench your fist."**
 
-— _Charlie Chaplin_
+— _Barack Obama_
