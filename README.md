@@ -1,3 +1,3 @@
-**"We will outstretch the hand if you unclench your fist."**
+**"The primary cause of unhappiness is never the situation but your thoughts about it."**
 
-— _Barack Obama_
+— _Eckhart Tolle_
