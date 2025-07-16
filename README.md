@@ -1,3 +1,3 @@
-**"The primary cause of unhappiness is never the situation but your thoughts about it."**
+**"It doesn't matter where you are, you are nowhere compared to where you can go."**
 
-— _Eckhart Tolle_
+— _Bob Proctor_
