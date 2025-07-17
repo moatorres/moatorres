@@ -1,3 +1,3 @@
-**"It doesn't matter where you are, you are nowhere compared to where you can go."**
+**"Only the educated are free."**
 
-— _Bob Proctor_
+— _Epictetus_
