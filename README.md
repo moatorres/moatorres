@@ -1,3 +1,3 @@
-**"Only the educated are free."**
+**"The privilege of a lifetime is to become who you truly are."**
 
-— _Epictetus_
+— _Carl Jung_
