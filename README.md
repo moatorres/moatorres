@@ -1,3 +1,3 @@
-**"The privilege of a lifetime is to become who you truly are."**
+**"Never allow someone to be your priority while allowing yourself to be their option."**
 
-— _Carl Jung_
+— _Mark Twain_
