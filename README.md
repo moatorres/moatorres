@@ -1,3 +1,3 @@
-**"Never allow someone to be your priority while allowing yourself to be their option."**
+**"All we have to decide is what to do with the time that is given to us."**
 
-— _Mark Twain_
+— _J.R.R. Tolkien_
