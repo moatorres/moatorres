@@ -1,3 +1,3 @@
-**"All we have to decide is what to do with the time that is given to us."**
+**"For changes to be of any true value, they've got to be lasting and consistent."**
 
-— _J.R.R. Tolkien_
+— _Tony Robbins_
