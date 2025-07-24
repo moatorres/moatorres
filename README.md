@@ -1,3 +1,3 @@
-**"For changes to be of any true value, they've got to be lasting and consistent."**
+**"It isn't that they can't see the solution. It is that they can't see the problem."**
 
-— _Tony Robbins_
+— _Gilbert Chesterton_
