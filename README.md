@@ -1,3 +1,3 @@
-**"It isn't that they can't see the solution. It is that they can't see the problem."**
+**"Life is simply what our feelings do to us."**
 
-— _Gilbert Chesterton_
+— _Honore de Balzac_
