@@ -1,3 +1,3 @@
-**"Life is simply what our feelings do to us."**
+**"A lot of people have gone further than they thought they could because someone else thought they could."**
 
-— _Honore de Balzac_
+— _Zig Ziglar_
