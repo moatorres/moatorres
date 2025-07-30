@@ -1,3 +1,3 @@
-**"There is no significance in life without struggle."**
+**"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."**
 
-— _Lolly Daskal_
+— _Deepak Chopra_
