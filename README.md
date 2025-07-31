@@ -1,3 +1,3 @@
-**"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."**
+**"Stop being tormented by everyone else's reaction to you."**
 
-— _Deepak Chopra_
+— _Joyce Meyer_
