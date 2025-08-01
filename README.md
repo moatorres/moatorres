@@ -1,3 +1,3 @@
-**"Stop being tormented by everyone else's reaction to you."**
+**"You don't need a weatherman to know which way the wind blows."**
 
-— _Joyce Meyer_
+— _Bob Dylan_
