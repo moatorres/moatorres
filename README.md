@@ -1,3 +1,3 @@
-**"You don't need a weatherman to know which way the wind blows."**
+**"Do not wait for leaders; do it alone, person to person."**
 
-— _Bob Dylan_
+— _Mother Teresa_
