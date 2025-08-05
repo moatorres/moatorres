@@ -1,3 +1,3 @@
-**"Do not wait for leaders; do it alone, person to person."**
+**"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."**
 
-— _Mother Teresa_
+— _Elbert Hubbard_
