@@ -1,3 +1,3 @@
-**"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."**
+**"You become a worrier by practicing worry. You become free of worry by practicing the opposite."**
 
-— _Elbert Hubbard_
+— _Norman Vincent Peale_
