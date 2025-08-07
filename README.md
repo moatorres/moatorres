@@ -1,3 +1,3 @@
-**"You become a worrier by practicing worry. You become free of worry by practicing the opposite."**
+**"Life is ours to be spent, not to be saved. "**
 
-— _Norman Vincent Peale_
+— _D. H. Lawrence_
