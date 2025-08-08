@@ -1,3 +1,3 @@
-**"Life is ours to be spent, not to be saved. "**
+**"Any fool can paint a picture, but it takes a wise man to be able to sell it."**
 
-— _D. H. Lawrence_
+— _Samuel Butler_
