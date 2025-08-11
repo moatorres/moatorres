@@ -1,3 +1,3 @@
-**"Any fool can paint a picture, but it takes a wise man to be able to sell it."**
+**"Find your Light; They can't love you if they can't see you."**
 
-— _Samuel Butler_
+— _Bette Midler_
