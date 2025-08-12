@@ -1,3 +1,3 @@
-**"Find your Light; They can't love you if they can't see you."**
+**"Take away love and our earth is a tomb."**
 
-— _Bette Midler_
+— _Robert Browning_
