@@ -1,3 +1,3 @@
-**"Take away love and our earth is a tomb."**
+**"The best answer to anger is silence."**
 
-— _Robert Browning_
+— _Marcus Aurelius_
