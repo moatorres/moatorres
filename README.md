@@ -1,3 +1,3 @@
-**"The best answer to anger is silence."**
+**"The most difficult times for many of us are the ones we give ourselves."**
 
-— _Marcus Aurelius_
+— _Pema Chodron_
