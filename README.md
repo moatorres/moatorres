@@ -1,3 +1,3 @@
-**"The most difficult times for many of us are the ones we give ourselves."**
+**"There is no excuse for not trying."**
 
-— _Pema Chodron_
+— _Barack Obama_
