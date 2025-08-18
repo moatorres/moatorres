@@ -1,3 +1,3 @@
-**"There is no excuse for not trying."**
+**"Walk towards the sunshine, and the shadows will fall behind you."**
 
-— _Barack Obama_
+— _Mary Engelbreit_
