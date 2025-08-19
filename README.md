@@ -1,3 +1,3 @@
-**"Walk towards the sunshine, and the shadows will fall behind you."**
+**"Perfection is not attainable, but if we chase perfection we can catch excellence."**
 
-— _Mary Engelbreit_
+— _Vince Lombardi_
