@@ -1,3 +1,3 @@
-**"Perfection is not attainable, but if we chase perfection we can catch excellence."**
+**"There can be no deep disappointment where there is not deep love."**
 
-— _Vince Lombardi_
+— _Martin Luther King, Jr._
