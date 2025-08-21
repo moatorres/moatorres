@@ -1,3 +1,3 @@
-**"There can be no deep disappointment where there is not deep love."**
+**"Start each day with a positive thought and a grateful heart."**
 
-— _Martin Luther King, Jr._
+— _Roy T. Bennett_
