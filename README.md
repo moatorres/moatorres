@@ -1,3 +1,3 @@
-**"Start each day with a positive thought and a grateful heart."**
+**"Your vision will become clear only when you can look into your own heart."**
 
-— _Roy T. Bennett_
+— _Lolly Daskal_
