@@ -1,3 +1,3 @@
-**"Your vision will become clear only when you can look into your own heart."**
+**"It is those who concentrate on but one thing at a time who advance in this world."**
 
-— _Lolly Daskal_
+— _Gary Keller_
