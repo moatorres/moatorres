@@ -1,3 +1,3 @@
-**"It is those who concentrate on but one thing at a time who advance in this world."**
+**"One's best success comes after their greatest disappointments."**
 
-— _Gary Keller_
+— _Henry Ward Beecher_
