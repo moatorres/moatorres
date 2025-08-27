@@ -1,3 +1,3 @@
-**"One's best success comes after their greatest disappointments."**
+**"Not all readers are leaders, but all leaders are readers."**
 
-— _Henry Ward Beecher_
+— _Harry S. Truman_
