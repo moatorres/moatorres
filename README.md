@@ -1,3 +1,3 @@
-**"Not all readers are leaders, but all leaders are readers."**
+**"The Art of Peace begins with you."**
 
-— _Harry S. Truman_
+— _Morihei Ueshiba_
