@@ -1,3 +1,3 @@
-**"The Art of Peace begins with you."**
+**"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."**
 
-— _Morihei Ueshiba_
+— _Kamal Ravikant_
