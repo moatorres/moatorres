@@ -1,3 +1,3 @@
-**"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."**
+**"It is dangerous to be right in matters on which the established authorities are wrong."**
 
-— _Kamal Ravikant_
+— _Voltaire_
