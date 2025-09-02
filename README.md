@@ -1,3 +1,3 @@
-**"It is dangerous to be right in matters on which the established authorities are wrong."**
+**"The first rule of business; treat others like they want to treat you."**
 
-— _Voltaire_
+— _Charles Dickens_
