@@ -1,3 +1,3 @@
-**"The first rule of business; treat others like they want to treat you."**
+**"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"**
 
-— _Charles Dickens_
+— _Sathya Sai Baba_
