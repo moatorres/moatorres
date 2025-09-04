@@ -1,3 +1,3 @@
-**"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"**
+**"I begin with an idea and then it becomes something else."**
 
-— _Sathya Sai Baba_
+— _Pablo Picasso_
