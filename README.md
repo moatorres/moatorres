@@ -1,3 +1,3 @@
-**"If you're afraid - don't do it, - if you're doing it - don't be afraid! "**
+**"Act the way you want to be and soon you'll be the way you act."**
 
-— _Genghis Khan_
+— _Les Brown_
