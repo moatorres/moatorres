@@ -1,3 +1,3 @@
-**"Act the way you want to be and soon you'll be the way you act."**
+**"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "**
 
-— _Les Brown_
+— _Estee Lauder_
