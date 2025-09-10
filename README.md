@@ -1,3 +1,3 @@
-**"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "**
+**"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."**
 
-— _Estee Lauder_
+— _Elon Musk_
