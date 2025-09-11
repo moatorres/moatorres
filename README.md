@@ -1,3 +1,3 @@
-**"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."**
+**"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."**
 
-— _Elon Musk_
+— _Sonia Ricotti_
