@@ -1,3 +1,3 @@
-**"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."**
+**"Nothing can bring you peace but yourself."**
 
-— _Sonia Ricotti_
+— _Dale Carnegie_
