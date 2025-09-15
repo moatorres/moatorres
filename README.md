@@ -1,3 +1,3 @@
-**"Nothing can bring you peace but yourself."**
+**"When you consider things like the stars, our affairs don't seem to matter very much, do they?"**
 
-— _Dale Carnegie_
+— _Virginia Woolf_
