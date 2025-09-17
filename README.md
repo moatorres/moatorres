@@ -1,3 +1,3 @@
-**"Life is too important to be taken seriously."**
+**"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."**
 
-— _Oscar Wilde_
+— _Richard Bach_
