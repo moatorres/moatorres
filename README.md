@@ -1,3 +1,3 @@
-**"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."**
+**"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."**
 
-— _Richard Bach_
+— _Roy T. Bennett_
