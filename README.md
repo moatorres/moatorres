@@ -1,3 +1,3 @@
-**"Better a diamond with a flaw than a pebble without one."**
+**"If you've made a mistake, it's better just to laugh at it."**
 
-— _Chinese Proverb_
+— _Zen Proverb_
