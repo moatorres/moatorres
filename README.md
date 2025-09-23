@@ -1,3 +1,3 @@
-**"If you've made a mistake, it's better just to laugh at it."**
+**"Lack of emotion causes lack of progress and lack of motivation."**
 
-— _Zen Proverb_
+— _Tony Robbins_
