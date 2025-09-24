@@ -1,3 +1,3 @@
-**"Lack of emotion causes lack of progress and lack of motivation."**
+**"Mistake is a mistake only if you make it twice."**
 
-— _Tony Robbins_
+— _Robin Sharma_
