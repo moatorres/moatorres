@@ -1,3 +1,3 @@
-**"Mistake is a mistake only if you make it twice."**
+**"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."**
 
-— _Robin Sharma_
+— _Carlos Ruiz Zafon_
