@@ -1,3 +1,3 @@
-**"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."**
+**"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."**
 
-— _Carlos Ruiz Zafon_
+— _Shunryu Suzuki_
