@@ -1,3 +1,3 @@
-**"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."**
+**"Your neighbor is the man who needs you."**
 
-— _Shunryu Suzuki_
+— _Elbert Hubbard_
