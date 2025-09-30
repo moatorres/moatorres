@@ -1,3 +1,3 @@
-**"Your neighbor is the man who needs you."**
+**"In order to be walked over, you have to be lying down."**
 
-— _Elbert Hubbard_
+— _Celestine Chua_
