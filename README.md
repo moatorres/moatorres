@@ -1,3 +1,3 @@
-**"In order to be walked over, you have to be lying down."**
+**"Unless a man is master of his soul, all other kinds of mastery amount to little."**
 
-— _Celestine Chua_
+— _Theodore Roosevelt_
