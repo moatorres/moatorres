@@ -1,3 +1,3 @@
-**"Unless a man is master of his soul, all other kinds of mastery amount to little."**
+**"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."**
 
-— _Theodore Roosevelt_
+— _Eleanor Roosevelt_
