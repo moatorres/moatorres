@@ -1,3 +1,3 @@
-**"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."**
+**"The biggest challenge after success is shutting up about it."**
 
-— _Eleanor Roosevelt_
+— _Criss Jami_
