@@ -1,3 +1,3 @@
-**"The biggest challenge after success is shutting up about it."**
+**"We win by helping each other win."**
 
-— _Criss Jami_
+— _Jack Butcher_
