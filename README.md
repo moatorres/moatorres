@@ -1,3 +1,3 @@
-**"We win by helping each other win."**
+**"The greatest of all mistakes is to do nothing because you think you can only do a little.  "**
 
-— _Jack Butcher_
+— _Zig Ziglar_
