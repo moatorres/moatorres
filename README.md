@@ -1,3 +1,3 @@
-**"The greatest of all mistakes is to do nothing because you think you can only do a little.  "**
+**"Preoccupied with a single leaf you won't see the tree."**
 
-— _Zig Ziglar_
+— _Unknown_
