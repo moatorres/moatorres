@@ -1,3 +1,3 @@
-**"Preoccupied with a single leaf you won't see the tree."**
+**"You can put lipstick on a pig. It's still a pig."**
 
-— _Unknown_
+— _Barack Obama_
