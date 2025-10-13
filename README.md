@@ -1,3 +1,3 @@
-**"Sometimes adversity is what you need to face in order to become successful."**
+**"Successful people ask better questions, and as a result, they get better answers."**
 
-— _Zig Ziglar_
+— _Tony Robbins_
