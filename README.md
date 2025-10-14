@@ -1,3 +1,3 @@
-**"Successful people ask better questions, and as a result, they get better answers."**
+**"Closing your eyes and listening to silence is self-care."**
 
-— _Tony Robbins_
+— _Maxime Lagace_
