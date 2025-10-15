@@ -1,3 +1,3 @@
-**"Closing your eyes and listening to silence is self-care."**
+**"We are shaped and fashioned by what we love."**
 
-— _Maxime Lagace_
+— _Johann Wolfgang von Goethe_
