@@ -1,3 +1,3 @@
-**"We are shaped and fashioned by what we love."**
+**"Success is getting what you want... Happiness is wanting what you get."**
 
-— _Johann Wolfgang von Goethe_
+— _Dale Carnegie_
