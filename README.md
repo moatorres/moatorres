@@ -1,3 +1,3 @@
-**"Success is getting what you want... Happiness is wanting what you get."**
+**"Greatest success comes just one step beyond the point at which defeat overtakes you."**
 
-— _Dale Carnegie_
+— _Unknown_
