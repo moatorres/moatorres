@@ -1,3 +1,3 @@
-**"Greatest success comes just one step beyond the point at which defeat overtakes you."**
+**"If you always do what you've always done, you'll always get what you've always got. "**
 
-— _Unknown_
+— _Henry Ford_
