@@ -1,3 +1,3 @@
-**"If you always do what you've always done, you'll always get what you've always got. "**
+**"Here and now...breathe and relax...in battle and in life."**
 
-— _Henry Ford_
+— _Dan Millman_
