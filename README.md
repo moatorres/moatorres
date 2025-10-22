@@ -1,3 +1,3 @@
-**"Here and now...breathe and relax...in battle and in life."**
+**"Thought is so cunning, so clever, that it distorts everything for its own convenience."**
 
-— _Dan Millman_
+— _Jiddu Krishnamurti_
