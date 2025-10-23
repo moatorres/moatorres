@@ -1,3 +1,3 @@
-**"Thought is so cunning, so clever, that it distorts everything for its own convenience."**
+**"Let not your mind run on what you lack as much as on what you have already."**
 
-— _Jiddu Krishnamurti_
+— _Marcus Aurelius_
