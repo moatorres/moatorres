@@ -1,3 +1,3 @@
-**"Let not your mind run on what you lack as much as on what you have already."**
+**"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."**
 
-— _Marcus Aurelius_
+— _Unknown_
