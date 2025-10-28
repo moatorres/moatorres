@@ -1,3 +1,3 @@
-**"Well done is better than well said."**
+**"When you consider things like the stars, our affairs don't seem to matter very much, do they?"**
 
-— _Benjamin Franklin_
+— _Virginia Woolf_
