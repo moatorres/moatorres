@@ -1,3 +1,3 @@
-**"When you consider things like the stars, our affairs don't seem to matter very much, do they?"**
+**"Throw me to the wolves and I will return leading the pack.  "**
 
-— _Virginia Woolf_
+— _Seneca_
