@@ -1,3 +1,3 @@
-**"Throw me to the wolves and I will return leading the pack.  "**
+**"Things do not have meaning. We assign meaning to everything."**
 
-— _Seneca_
+— _Tony Robbins_
