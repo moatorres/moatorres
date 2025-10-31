@@ -1,3 +1,3 @@
-**"Things do not have meaning. We assign meaning to everything."**
+**"Opportunity often comes disguised in the form of misfortune or temporary defeat."**
 
-— _Tony Robbins_
+— _Napoleon Hill_
