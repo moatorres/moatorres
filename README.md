@@ -1,3 +1,3 @@
-**"Opportunity often comes disguised in the form of misfortune or temporary defeat."**
+**"When you have a dream, you've got to grab it and never let go."**
 
-— _Napoleon Hill_
+— _Carol Burnett_
