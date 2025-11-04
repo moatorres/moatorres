@@ -1,3 +1,3 @@
-**"When you have a dream, you've got to grab it and never let go."**
+**"All life is a manifestation of the spirit, the manifestation of love."**
 
-— _Carol Burnett_
+— _Morihei Ueshiba_
