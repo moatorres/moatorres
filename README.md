@@ -1,3 +1,3 @@
-**"All life is a manifestation of the spirit, the manifestation of love."**
+**"When you judge others, you do not define them, you define yourself."**
 
-— _Morihei Ueshiba_
+— _Earl Nightingale_
