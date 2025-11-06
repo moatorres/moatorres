@@ -1,3 +1,3 @@
-**"When you judge others, you do not define them, you define yourself."**
+**"I succeeded by saying what everyone else is thinking."**
 
-— _Earl Nightingale_
+— _Joan Rivers_
