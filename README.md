@@ -1,3 +1,3 @@
-**"I succeeded by saying what everyone else is thinking."**
+**"I have not failed. I've just found 10,000 ways that won't work."**
 
-— _Joan Rivers_
+— _Thomas Edison_
