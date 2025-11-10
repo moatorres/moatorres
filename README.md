@@ -1,3 +1,3 @@
-**"I have not failed. I've just found 10,000 ways that won't work."**
+**"If a thing is worth doing, it is worth doing badly."**
 
-— _Thomas Edison_
+— _Gilbert Chesterton_
