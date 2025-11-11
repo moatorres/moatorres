@@ -1,3 +1,3 @@
-**"If a thing is worth doing, it is worth doing badly."**
+**"The chief enemy of creativity is good sense."**
 
-— _Gilbert Chesterton_
+— _Pablo Picasso_
