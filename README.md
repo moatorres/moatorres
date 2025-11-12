@@ -1,3 +1,3 @@
-**"The chief enemy of creativity is good sense."**
+**"Trust, but verify."**
 
-— _Pablo Picasso_
+— _Ronald Reagan_
