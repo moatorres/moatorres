@@ -1,3 +1,3 @@
-**"Trust, but verify."**
+**"Success is the sum of small efforts, repeated day in and day out."**
 
-— _Ronald Reagan_
+— _Robert Collier_
