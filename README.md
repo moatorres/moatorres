@@ -1,3 +1,3 @@
-**"Success is the sum of small efforts, repeated day in and day out."**
+**"Chase your passion, not your pension. "**
 
-— _Robert Collier_
+— _Denis Waitley_
