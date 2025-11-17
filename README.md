@@ -1,3 +1,3 @@
-**"Chase your passion, not your pension. "**
+**"There exists only the present instant; a Now which always and without end is itself new."**
 
-— _Denis Waitley_
+— _Meister Eckhart_
