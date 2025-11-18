@@ -1,3 +1,3 @@
-**"There exists only the present instant; a Now which always and without end is itself new."**
+**"Problems remain as problems because people are busy defending them rather than finding solutions."**
 
-— _Meister Eckhart_
+— _Celestine Chua_
