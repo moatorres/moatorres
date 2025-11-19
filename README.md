@@ -1,3 +1,3 @@
-**"Problems remain as problems because people are busy defending them rather than finding solutions."**
+**"It is better to fail in originality than to succeed in imitation."**
 
-— _Celestine Chua_
+— _Herman Melville_
