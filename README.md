@@ -1,3 +1,3 @@
-**"It is better to fail in originality than to succeed in imitation."**
+**"Mistake is a mistake only if you make it twice."**
 
-— _Herman Melville_
+— _Robin Sharma_
