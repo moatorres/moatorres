@@ -1,3 +1,3 @@
-**"Mistake is a mistake only if you make it twice."**
+**"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."**
 
-— _Robin Sharma_
+— _Robert Kiyosaki_
