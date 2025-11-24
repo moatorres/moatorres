@@ -1,3 +1,3 @@
-**"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."**
+**"Too many of us are not living our dreams because we are living our fears."**
 
-— _Robert Kiyosaki_
+— _Les Brown_
