@@ -1,3 +1,3 @@
-**"Too many of us are not living our dreams because we are living our fears."**
+**"Never lose hope. Storms make people stronger and never last forever."**
 
-— _Les Brown_
+— _Roy T. Bennett_
