@@ -1,3 +1,3 @@
-**"Never lose hope. Storms make people stronger and never last forever."**
+**"Art is to console those who are broken by life."**
 
-— _Roy T. Bennett_
+— _Vincent van Gogh_
