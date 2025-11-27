@@ -1,3 +1,3 @@
-**"Art is to console those who are broken by life."**
+**"There is no greatness where there is not simplicity, goodness, and truth."**
 
-— _Vincent van Gogh_
+— _Leo Tolstoy_
