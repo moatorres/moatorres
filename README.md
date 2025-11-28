@@ -1,3 +1,3 @@
-**"There is no greatness where there is not simplicity, goodness, and truth."**
+**"If we did all the things we are capable of, we would literally astound ourselves."**
 
-— _Leo Tolstoy_
+— _Thomas Edison_
