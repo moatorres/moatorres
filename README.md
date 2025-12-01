@@ -1,3 +1,3 @@
-**"If we did all the things we are capable of, we would literally astound ourselves."**
+**"The more one judges, the less one loves."**
 
-— _Thomas Edison_
+— _Honore de Balzac_
