@@ -1,3 +1,3 @@
-**"The more one judges, the less one loves."**
+**"Your success and happiness lie in you."**
 
-— _Honore de Balzac_
+— _Helen Keller_
