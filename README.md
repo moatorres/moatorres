@@ -1,3 +1,3 @@
-**"Your success and happiness lie in you."**
+**"Every man is guilty of all the good he did not do. "**
 
-— _Helen Keller_
+— _Voltaire_
