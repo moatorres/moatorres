@@ -1,3 +1,3 @@
-**"Every man is guilty of all the good he did not do. "**
+**"Lack of emotion causes lack of progress and lack of motivation."**
 
-— _Voltaire_
+— _Tony Robbins_
