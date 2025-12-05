@@ -1,3 +1,3 @@
-**"Lack of emotion causes lack of progress and lack of motivation."**
+**"Anyone who has ever made anything of importance was disciplined."**
 
-— _Tony Robbins_
+— _Andrew Hendrixson_
