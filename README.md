@@ -1,3 +1,3 @@
-**"Anyone who has ever made anything of importance was disciplined."**
+**"I believe that one of life's greatest risks is never daring to risk."**
 
-— _Andrew Hendrixson_
+— _Oprah Winfrey_
