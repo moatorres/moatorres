@@ -1,3 +1,3 @@
-**"I believe that one of life's greatest risks is never daring to risk."**
+**"Over time, loneliness gets inside you and doesn't go away."**
 
-— _Oprah Winfrey_
+— _Carlos Ruiz Zafon_
