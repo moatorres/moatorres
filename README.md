@@ -1,3 +1,3 @@
-**"Over time, loneliness gets inside you and doesn't go away."**
+**"A wise person should have money in their head, but not in their heart."**
 
-— _Carlos Ruiz Zafon_
+— _Jonathan Swift_
