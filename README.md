@@ -1,3 +1,3 @@
-**"A wise person should have money in their head, but not in their heart."**
+**"I will not walk backward in life."**
 
-— _Jonathan Swift_
+— _J.R.R. Tolkien_
