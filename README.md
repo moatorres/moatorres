@@ -1,3 +1,3 @@
-**"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."**
+**"Mistake is a mistake only if you make it twice."**
 
-— _Dale Carnegie_
+— _Robin Sharma_
