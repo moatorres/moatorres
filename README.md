@@ -1,3 +1,3 @@
-**"Mistake is a mistake only if you make it twice."**
+**"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."**
 
-— _Robin Sharma_
+— _Shunryu Suzuki_
