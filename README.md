@@ -1,3 +1,3 @@
-**"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."**
+**"No need to hurry. No need to sparkle. No need to be anybody but oneself."**
 
-— _Shunryu Suzuki_
+— _Virginia Woolf_
