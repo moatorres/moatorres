@@ -1,3 +1,3 @@
-**"Tis not too late to seek a newer world."**
+**"In peace, sons bury their fathers. In war, fathers bury their sons. "**
 
-— _Heraclitus_
+— _Herodotus_
