@@ -1,3 +1,3 @@
-**"In peace, sons bury their fathers. In war, fathers bury their sons. "**
+**"You can never cross the ocean unless you have the courage to lose sight of the shore."**
 
-— _Herodotus_
+— _Christopher Columbus_
