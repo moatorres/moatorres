@@ -1,3 +1,3 @@
-**"You can never cross the ocean unless you have the courage to lose sight of the shore."**
+**"Change yourself - you are in control."**
 
-— _Christopher Columbus_
+— _Mahatma Gandhi_
