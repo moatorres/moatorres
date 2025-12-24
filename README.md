@@ -1,3 +1,3 @@
-**"Change yourself - you are in control."**
+**"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."**
 
-— _Mahatma Gandhi_
+— _Kahlil Gibran_
