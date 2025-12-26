@@ -1,3 +1,3 @@
-**"The key to success is failure."**
+**"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."**
 
-— _Michael Jordan_
+— _Charles Dickens_
