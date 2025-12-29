@@ -1,3 +1,3 @@
-**"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."**
+**"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."**
 
-— _Charles Dickens_
+— _Carlos Ruiz Zafon_
