@@ -1,3 +1,3 @@
-**"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."**
+**"It's not what you've got; it's what you do that makes the difference."**
 
-— _Carlos Ruiz Zafon_
+— _Celestine Chua_
