@@ -1,3 +1,3 @@
-**"It's not what you've got; it's what you do that makes the difference."**
+**"No tree, it is said, can grow to heaven unless its roots reach down to hell."**
 
-— _Celestine Chua_
+— _Carl Jung_
