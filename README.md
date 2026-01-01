@@ -1,3 +1,3 @@
-**"No tree, it is said, can grow to heaven unless its roots reach down to hell."**
+**"The river that flows in you also flows in me."**
 
-— _Carl Jung_
+— _Kabir_
