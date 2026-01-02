@@ -1,3 +1,3 @@
-**"The river that flows in you also flows in me."**
+**"The less you try to impress, the more peaceful you can be."**
 
-— _Kabir_
+— _Maxime Lagace_
