@@ -1,3 +1,3 @@
-**"The less you try to impress, the more peaceful you can be."**
+**"Those who look for the bad in people will surely find it."**
 
-— _Maxime Lagace_
+— _Abraham Lincoln_
