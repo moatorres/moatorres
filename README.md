@@ -1,3 +1,3 @@
-**"Those who look for the bad in people will surely find it."**
+**"When you want something in life, you just gotta reach out and grab it."**
 
-— _Abraham Lincoln_
+— _Christopher McCandless_
