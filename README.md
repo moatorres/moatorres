@@ -1,3 +1,3 @@
-**"When you want something in life, you just gotta reach out and grab it."**
+**"When you reach the end of your rope, tie a knot in it and hang on."**
 
-— _Christopher McCandless_
+— _Franklin D. Roosevelt_
