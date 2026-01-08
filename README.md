@@ -1,3 +1,3 @@
-**"When you reach the end of your rope, tie a knot in it and hang on."**
+**"Do not follow the ideas of others, but learn to listen to the voice within yourself."**
 
-— _Franklin D. Roosevelt_
+— _Dogen_
