@@ -1,3 +1,3 @@
-**"Do not follow the ideas of others, but learn to listen to the voice within yourself."**
+**"I love fools' experiments. I am always making them."**
 
-— _Dogen_
+— _Charles Darwin_
