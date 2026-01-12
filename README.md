@@ -1,3 +1,3 @@
-**"I love fools' experiments. I am always making them."**
+**"Don't let the silly little dramas of each day get you down. For you are here to do great things."**
 
-— _Charles Darwin_
+— _Ralph Marston_
