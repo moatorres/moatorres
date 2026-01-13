@@ -1,3 +1,3 @@
-**"Don't let the silly little dramas of each day get you down. For you are here to do great things."**
+**"People seldom do what they believe in. They do what is convenient, then repent."**
 
-— _Ralph Marston_
+— _Bob Dylan_
