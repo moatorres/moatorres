@@ -1,3 +1,3 @@
-**"People seldom do what they believe in. They do what is convenient, then repent."**
+**"We suffer more often in imagination than in reality."**
 
-— _Bob Dylan_
+— _Seneca_
