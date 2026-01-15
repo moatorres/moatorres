@@ -1,3 +1,3 @@
-**"We suffer more often in imagination than in reality."**
+**"Art, like morality, consists of drawing the line somewhere."**
 
-— _Seneca_
+— _Gilbert Chesterton_
