@@ -1,3 +1,3 @@
-**"Art, like morality, consists of drawing the line somewhere."**
+**"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."**
 
-— _Gilbert Chesterton_
+— _Norman Vincent Peale_
