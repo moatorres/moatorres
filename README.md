@@ -1,3 +1,3 @@
-**"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."**
+**"Knowledge is a treasure, but practice is the key to it."**
 
-— _Norman Vincent Peale_
+— _Lao Tzu_
