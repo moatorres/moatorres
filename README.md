@@ -1,3 +1,3 @@
-**"Knowledge is a treasure, but practice is the key to it."**
+**"It is our experiences that mold us into who we are...during times of adversity our true character will show."**
 
-— _Lao Tzu_
+— _Unknown_
