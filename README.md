@@ -1,3 +1,3 @@
-**"It is our experiences that mold us into who we are...during times of adversity our true character will show."**
+**"The most important single ingredient in the formula of success is knowing how to get along with people."**
 
-— _Unknown_
+— _Theodore Roosevelt_
