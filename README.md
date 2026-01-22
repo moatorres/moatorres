@@ -1,3 +1,3 @@
-**"The most important single ingredient in the formula of success is knowing how to get along with people."**
+**"Kindness is a language which the deaf can hear and the blind can see."**
 
-— _Theodore Roosevelt_
+— _Mark Twain_
