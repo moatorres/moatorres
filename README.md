@@ -1,3 +1,3 @@
-**"Kindness is a language which the deaf can hear and the blind can see."**
+**"Re-examine all that you have been told... dismiss that which insults your soul."**
 
-— _Mark Twain_
+— _Walt Whitman_
