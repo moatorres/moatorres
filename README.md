@@ -1,3 +1,3 @@
-**"Re-examine all that you have been told... dismiss that which insults your soul."**
+**"Things do not have meaning. We assign meaning to everything."**
 
-— _Walt Whitman_
+— _Tony Robbins_
