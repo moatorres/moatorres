@@ -1,3 +1,3 @@
-**"Things do not have meaning. We assign meaning to everything."**
+**"To know your Enemy, you must become your Enemy."**
 
-— _Tony Robbins_
+— _Sun Tzu_
