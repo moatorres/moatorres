@@ -1,3 +1,3 @@
-**"To know your Enemy, you must become your Enemy."**
+**"Opportunities multiply as they are seized."**
 
 — _Sun Tzu_
