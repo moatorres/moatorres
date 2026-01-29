@@ -1,3 +1,3 @@
-**"Opportunities multiply as they are seized."**
+**"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."**
 
-— _Sun Tzu_
+— _John Lennon_
