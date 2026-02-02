@@ -1,3 +1,3 @@
-**"A hopeless man is a very desperate and dangerous man, almost a dead man."**
+**"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."**
 
-— _Robert F. Kennedy_
+— _Carl Jung_
