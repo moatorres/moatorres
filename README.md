@@ -1,3 +1,3 @@
-**"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."**
+**"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."**
 
-— _Carl Jung_
+— _Maya Angelou_
