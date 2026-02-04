@@ -1,3 +1,3 @@
-**"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."**
+**"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."**
 
-— _Maya Angelou_
+— _Arnold Schwarzenegger_
