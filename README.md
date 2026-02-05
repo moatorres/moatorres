@@ -1,3 +1,3 @@
-**"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."**
+**"A Penny Saved is a Penny Earned"**
 
-— _Arnold Schwarzenegger_
+— _Benjamin Franklin_
