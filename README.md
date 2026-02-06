@@ -1,3 +1,3 @@
-**"A Penny Saved is a Penny Earned"**
+**"Your happiness is what truly matters most. Do what you have to do in order to be happy."**
 
-— _Benjamin Franklin_
+— _Brian Tracy_
