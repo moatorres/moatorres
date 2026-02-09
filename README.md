@@ -1,3 +1,3 @@
-**"Your happiness is what truly matters most. Do what you have to do in order to be happy."**
+**"Never trust he who trusts everyone."**
 
-— _Brian Tracy_
+— _Carlos Ruiz Zafon_
