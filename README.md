@@ -1,3 +1,3 @@
-**"Never trust he who trusts everyone."**
+**"Who you are is defined by what you're willing to struggle for."**
 
-— _Carlos Ruiz Zafon_
+— _Mark Manson_
