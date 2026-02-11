@@ -1,3 +1,3 @@
-**"Who you are is defined by what you're willing to struggle for."**
+**"Nature does not hurry, yet everything is accomplished."**
 
-— _Mark Manson_
+— _Lao Tzu_
