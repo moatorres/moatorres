@@ -1,3 +1,3 @@
-**"Nature does not hurry, yet everything is accomplished."**
+**"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."**
 
-— _Lao Tzu_
+— _Sigmund Freud_
