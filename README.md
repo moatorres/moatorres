@@ -1,3 +1,3 @@
-**"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."**
+**"There are no accidents... there is only some purpose that we haven't yet understood."**
 
-— _Sigmund Freud_
+— _Deepak Chopra_
