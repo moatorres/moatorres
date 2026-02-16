@@ -1,3 +1,3 @@
-**"There are no accidents... there is only some purpose that we haven't yet understood."**
+**"By words the mind is winged."**
 
-— _Deepak Chopra_
+— _Aristophanes_
