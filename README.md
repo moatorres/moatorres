@@ -1,3 +1,3 @@
-**"Anyone telling you it's pointless to share your perspective is sharing their perspective."**
+**"The man who removes a mountain begins by carrying away small stones."**
 
-— _Jack Butcher_
+— _William Faulkner_
