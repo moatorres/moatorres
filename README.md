@@ -1,3 +1,3 @@
-**"The man who removes a mountain begins by carrying away small stones."**
+**"There's more to life than being a passenger."**
 
-— _William Faulkner_
+— _Amelia Earhart_
