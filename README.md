@@ -1,3 +1,3 @@
-**"There's more to life than being a passenger."**
+**"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."**
 
-— _Amelia Earhart_
+— _John Eliot_
