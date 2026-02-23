@@ -1,3 +1,3 @@
-**"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."**
+**"The farther backward you can look, the farther forward you are likely to see."**
 
-— _John Eliot_
+— _Winston Churchill_
