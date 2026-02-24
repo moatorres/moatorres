@@ -1,3 +1,3 @@
-**"The farther backward you can look, the farther forward you are likely to see."**
+**"You can't get to a place that you don't believe exists."**
 
-— _Winston Churchill_
+— _Unknown_
