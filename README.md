@@ -1,3 +1,3 @@
-**"You can't get to a place that you don't believe exists."**
+**"The past has no power over the present moment. "**
 
-— _Unknown_
+— _Eckhart Tolle_
