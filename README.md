@@ -1,3 +1,3 @@
-**"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."**
+**"Knowing is not enough, we must apply. Willing is not enough, we must do."**
 
-— _Simon Sinek_
+— _Johann Wolfgang von Goethe_
