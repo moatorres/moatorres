@@ -1,3 +1,3 @@
-**"Knowing is not enough, we must apply. Willing is not enough, we must do."**
+**"A man that flies from his fear may find that he has only taken a short cut to meet it."**
 
-— _Johann Wolfgang von Goethe_
+— _J.R.R. Tolkien_
