@@ -1,3 +1,3 @@
-**"A man that flies from his fear may find that he has only taken a short cut to meet it."**
+**"We make a living by what we get, but we make a life by what we give."**
 
-— _J.R.R. Tolkien_
+— _Unknown_
