@@ -1,3 +1,3 @@
-**"We make a living by what we get, but we make a life by what we give."**
+**"Trust in dreams, for in them is the hidden gate to eternity.  "**
 
-— _Unknown_
+— _Kahlil Gibran_
