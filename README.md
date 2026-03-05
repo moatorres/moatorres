@@ -1,3 +1,3 @@
-**"Trust in dreams, for in them is the hidden gate to eternity.  "**
+**"Attitude, not aptitude, determines altitude.  "**
 
-— _Kahlil Gibran_
+— _Zig Ziglar_
