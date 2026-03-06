@@ -1,3 +1,3 @@
-**"Attitude, not aptitude, determines altitude.  "**
+**"Closing your eyes and listening to silence is self-care."**
 
-— _Zig Ziglar_
+— _Maxime Lagace_
