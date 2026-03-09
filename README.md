@@ -1,3 +1,3 @@
-**"Closing your eyes and listening to silence is self-care."**
+**"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."**
 
-— _Maxime Lagace_
+— _Carlos Ruiz Zafon_
