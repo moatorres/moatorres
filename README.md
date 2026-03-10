@@ -1,3 +1,3 @@
-**"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."**
+**"We have a duty to maintain the light of consciousness to make sure it continues into the future."**
 
-— _Carlos Ruiz Zafon_
+— _Elon Musk_
