@@ -1,3 +1,3 @@
-**"We have a duty to maintain the light of consciousness to make sure it continues into the future."**
+**"There is always risk, so learn to manage risk instead of avoiding it."**
 
-— _Elon Musk_
+— _Robert Kiyosaki_
