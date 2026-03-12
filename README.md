@@ -1,3 +1,3 @@
-**"There is always risk, so learn to manage risk instead of avoiding it."**
+**"Have a vision. Be demanding."**
 
-— _Robert Kiyosaki_
+— _Colin Powell_
