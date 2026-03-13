@@ -1,3 +1,3 @@
-**"Have a vision. Be demanding."**
+**"All life is a manifestation of the spirit, the manifestation of love."**
 
-— _Colin Powell_
+— _Morihei Ueshiba_
