@@ -1,3 +1,3 @@
-**"All life is a manifestation of the spirit, the manifestation of love."**
+**"Wherever you are, and whatever you do, be in love."**
 
-— _Morihei Ueshiba_
+— _Rumi_
