@@ -1,3 +1,3 @@
-**"Wherever you are, and whatever you do, be in love."**
+**"All leaders are readers."**
 
-— _Rumi_
+— _Jim Rohn_
