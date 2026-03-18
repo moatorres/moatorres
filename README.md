@@ -1,3 +1,3 @@
-**"All leaders are readers."**
+**"Embody what you teach, and teach only what you have embodied."**
 
-— _Jim Rohn_
+— _Dan Millman_
