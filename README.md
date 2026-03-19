@@ -1,3 +1,3 @@
-**"Embody what you teach, and teach only what you have embodied."**
+**"Not all those who wander are lost."**
 
-— _Dan Millman_
+— _J.R.R. Tolkien_
