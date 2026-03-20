@@ -1,3 +1,3 @@
-**"Not all those who wander are lost."**
+**"Life is a balance of holding on and letting go."**
 
-— _J.R.R. Tolkien_
+— _Rumi_
