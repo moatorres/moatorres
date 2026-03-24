@@ -1,3 +1,3 @@
-**"If you're not failing every now and again, it's a sign you're not doing anything very innovative."**
+**"Lost Time is never found again."**
 
-— _Woody Allen_
+— _Benjamin Franklin_
