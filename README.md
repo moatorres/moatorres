@@ -1,3 +1,3 @@
-**"It is in changing that we find purpose."**
+**"You'll see it when you believe it. "**
 
-— _Heraclitus_
+— _Wayne Dyer_
