@@ -1,3 +1,3 @@
-**"You'll see it when you believe it. "**
+**"There is no self-discovery without pain and loss."**
 
-— _Wayne Dyer_
+— _Anita Krizzan_
