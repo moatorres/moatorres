@@ -1,3 +1,3 @@
-**"There is no self-discovery without pain and loss."**
+**"The final mystery is oneself."**
 
-— _Anita Krizzan_
+— _Oscar Wilde_
