@@ -1,3 +1,3 @@
-**"The final mystery is oneself."**
+**"Nature is pleased with simplicity. And nature is no dummy."**
 
-— _Oscar Wilde_
+— _Isaac Newton_
