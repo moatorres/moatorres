@@ -1,3 +1,3 @@
-**"Nature is pleased with simplicity. And nature is no dummy."**
+**"Winners are not people who never fail, but people who never quit."**
 
-— _Isaac Newton_
+— _Arnold Schwarzenegger_
