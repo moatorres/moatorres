@@ -1,3 +1,3 @@
-**"Winners are not people who never fail, but people who never quit."**
+**"From morning till night, we should never rely on a single thing."**
 
-— _Arnold Schwarzenegger_
+— _Huang Po_
