@@ -1,3 +1,3 @@
-**"From morning till night, we should never rely on a single thing."**
+**"He that can have patience can have what he will."**
 
-— _Huang Po_
+— _Benjamin Franklin_
