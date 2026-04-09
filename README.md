@@ -1,3 +1,3 @@
-**"He that can have patience can have what he will."**
+**"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."**
 
-— _Benjamin Franklin_
+— _Ronald Reagan_
