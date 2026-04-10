@@ -1,3 +1,3 @@
-**"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."**
+**"I can live without money, but I cannot live without love."**
 
-— _Ronald Reagan_
+— _Judy Garland_
