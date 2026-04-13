@@ -1,3 +1,3 @@
-**"I can live without money, but I cannot live without love."**
+**"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."**
 
-— _Judy Garland_
+— _Maya Angelou_
