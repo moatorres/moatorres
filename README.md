@@ -1,3 +1,3 @@
-**"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."**
+**"Live life as though nobody is watching, and express yourself as though everyone is listening."**
 
-— _Socrates_
+— _Nelson Mandela_
