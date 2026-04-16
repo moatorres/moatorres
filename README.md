@@ -1,3 +1,3 @@
-**"Live life as though nobody is watching, and express yourself as though everyone is listening."**
+**"It's what you do in the present that will redeem the past and thereby change the future."**
 
-— _Nelson Mandela_
+— _Paulo Coelho_
