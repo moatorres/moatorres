@@ -1,3 +1,3 @@
-**"Who you are is defined by what you're willing to struggle for."**
+**"Because of your smile, you make life more beautiful."**
 
-— _Mark Manson_
+— _Thich Nhat Hanh_
