@@ -1,3 +1,3 @@
-**"Because of your smile, you make life more beautiful."**
+**"Instead of thinking outside the box, get rid of the box."**
 
-— _Thich Nhat Hanh_
+— _Deepak Chopra_
