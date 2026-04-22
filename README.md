@@ -1,3 +1,3 @@
-**"Instead of thinking outside the box, get rid of the box."**
+**"They who have conquered doubt and fear have conquered failure."**
 
-— _Deepak Chopra_
+— _James Allen_
