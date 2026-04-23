@@ -1,3 +1,3 @@
-**"They who have conquered doubt and fear have conquered failure."**
+**"We create the world and ourselves;"**
 
-— _James Allen_
+— _Ming-Dao Deng_
