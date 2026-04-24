@@ -1,3 +1,3 @@
-**"We create the world and ourselves;"**
+**"The soul should always stand ajar, ready to welcome the ecstatic experience."**
 
-— _Ming-Dao Deng_
+— _Emily Dickinson_
