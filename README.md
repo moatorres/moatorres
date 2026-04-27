@@ -1,3 +1,3 @@
-**"The soul should always stand ajar, ready to welcome the ecstatic experience."**
+**"It is difficult to free fools from the chains they revere. "**
 
-— _Emily Dickinson_
+— _Voltaire_
