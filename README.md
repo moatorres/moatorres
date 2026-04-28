@@ -1,3 +1,3 @@
-**"It is difficult to free fools from the chains they revere. "**
+**"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."**
 
-— _Voltaire_
+— _Arnold Schwarzenegger_
