@@ -1,3 +1,3 @@
-**"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."**
+**"The whole world is a series of miracles, but we're so used to them we call them ordinary things."**
 
-— _Arnold Schwarzenegger_
+— _Hans Christian Andersen_
