@@ -1,3 +1,3 @@
-**"The whole world is a series of miracles, but we're so used to them we call them ordinary things."**
+**"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."**
 
-— _Hans Christian Andersen_
+— _D. H. Lawrence_
