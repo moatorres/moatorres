@@ -1,3 +1,3 @@
-**"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."**
+**"The more something threatens your identity, the more you will avoid it."**
 
-— _D. H. Lawrence_
+— _Mark Manson_
