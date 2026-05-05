@@ -1,3 +1,3 @@
-**"Challenge yourself to find the good and beautiful thing inside of everyone."**
+**"Your mind is infinite, it's your doubts that are limiting."**
 
-— _Mark Manson_
+— _Robert Kiyosaki_
