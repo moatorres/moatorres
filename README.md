@@ -1,3 +1,3 @@
-**"Your mind is infinite, it's your doubts that are limiting."**
+**"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."**
 
-— _Robert Kiyosaki_
+— _Zen Proverb_
