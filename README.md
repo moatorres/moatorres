@@ -1,3 +1,3 @@
-**"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."**
+**"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."**
 
-— _Zen Proverb_
+— _Shunryu Suzuki_
