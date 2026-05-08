@@ -1,3 +1,3 @@
-**"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."**
+**"Life begins where fear ends."**
 
-— _Shunryu Suzuki_
+— _Osho_
