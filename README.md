@@ -1,3 +1,3 @@
-**"Life begins where fear ends."**
+**"Peace begins with a smile."**
 
-— _Osho_
+— _Mother Teresa_
