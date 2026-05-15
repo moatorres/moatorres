@@ -1,3 +1,3 @@
-**"You play the hand you're dealt. I think the game's worthwhile.  "**
+**"You are never too old to set another goal or to dream a new dream."**
 
-— _Christopher Reeve_
+— _Les Brown_
