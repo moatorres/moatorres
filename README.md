@@ -1,3 +1,3 @@
-**"You are never too old to set another goal or to dream a new dream."**
+**"There is always risk, so learn to manage risk instead of avoiding it."**
 
-— _Les Brown_
+— _Robert Kiyosaki_
