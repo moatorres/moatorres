@@ -1,3 +1,3 @@
-**"There is always risk, so learn to manage risk instead of avoiding it."**
+**"Only by acceptance of the past, can you alter it."**
 
-— _Robert Kiyosaki_
+— _T.S. Eliot_
