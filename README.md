@@ -1,3 +1,3 @@
-**"Only by acceptance of the past, can you alter it."**
+**"Get mad, then get over it."**
 
-— _T.S. Eliot_
+— _Colin Powell_
