@@ -1,3 +1,3 @@
-**"Get mad, then get over it."**
+**"It is truth that liberates, not your effort to be free."**
 
-— _Colin Powell_
+— _Jiddu Krishnamurti_
