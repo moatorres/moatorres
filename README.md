@@ -1,3 +1,3 @@
-**"It is truth that liberates, not your effort to be free."**
+**"Success in any endeavor depends on the degree to which it is an expression of your true self. "**
 
-— _Jiddu Krishnamurti_
+— _Ralph Marston_
