@@ -1,3 +1,3 @@
-**"Success in any endeavor depends on the degree to which it is an expression of your true self. "**
+**"Here and now...breathe and relax...in battle and in life."**
 
-— _Ralph Marston_
+— _Dan Millman_
