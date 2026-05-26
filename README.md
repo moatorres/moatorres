@@ -1,3 +1,3 @@
-**"Here and now...breathe and relax...in battle and in life."**
+**"If I persist long enough I will win."**
 
-— _Dan Millman_
+— _Og Mandino_
