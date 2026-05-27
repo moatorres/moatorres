@@ -1,3 +1,3 @@
-**"If I persist long enough I will win."**
+**"I try more and more to be myself, caring relatively little whether people approve or disapprove."**
 
-— _Og Mandino_
+— _Vincent van Gogh_
