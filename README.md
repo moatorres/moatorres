@@ -1,3 +1,3 @@
-**"I try more and more to be myself, caring relatively little whether people approve or disapprove."**
+**"Successful people do what unsuccessful people are not willing to do."**
 
-— _Vincent van Gogh_
+— _Jim Rohn_
