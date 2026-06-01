@@ -1,3 +1,3 @@
-**"Unless you're ashamed of yourself now and then, you're not honest."**
+**"The fewer the words, the better the prayer."**
 
-— _William Faulkner_
+— _Martin Luther_
