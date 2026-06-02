@@ -1,3 +1,3 @@
-**"The fewer the words, the better the prayer."**
+**"Wise people, even though all laws were abolished, would still lead the same life."**
 
-— _Martin Luther_
+— _Aristophanes_
