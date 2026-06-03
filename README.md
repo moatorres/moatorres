@@ -1,3 +1,3 @@
-**"Wise people, even though all laws were abolished, would still lead the same life."**
+**"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."**
 
-— _Aristophanes_
+— _Winston Churchill_
