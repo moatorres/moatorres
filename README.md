@@ -1,3 +1,3 @@
-**"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."**
+**"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."**
 
-— _Winston Churchill_
+— _Robert Kiyosaki_
