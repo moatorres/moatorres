@@ -1,3 +1,3 @@
-**"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."**
+**"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."**
 
-— _Robert Kiyosaki_
+— _Ming-Dao Deng_
