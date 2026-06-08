@@ -1,3 +1,3 @@
-**"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."**
+**"The goal is not to show how great you are to others, but how vulnerable you are to yourself."**
 
-— _Ming-Dao Deng_
+— _Maxime Lagace_
