@@ -1,3 +1,3 @@
-**"The goal is not to show how great you are to others, but how vulnerable you are to yourself."**
+**"Stop being a prisoner of your past. Become the architect of your future."**
 
-— _Maxime Lagace_
+— _Robin Sharma_
