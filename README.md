@@ -1,3 +1,3 @@
-**"Stop being a prisoner of your past. Become the architect of your future."**
+**"We cannot change anything unless we accept it."**
 
-— _Robin Sharma_
+— _Carl Jung_
