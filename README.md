@@ -1,3 +1,3 @@
-**"We cannot change anything unless we accept it."**
+**"The most virtuous are those who content themselves with being virtuous without seeking to appear so."**
 
-— _Carl Jung_
+— _Plato_
