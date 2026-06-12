@@ -1,3 +1,3 @@
-**"The most virtuous are those who content themselves with being virtuous without seeking to appear so."**
+**"Be brave to stand for what you believe in even if you stand alone."**
 
-— _Plato_
+— _Roy T. Bennett_
