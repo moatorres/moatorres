@@ -1,3 +1,3 @@
-**"Be brave to stand for what you believe in even if you stand alone."**
+**"Disobedience is the true foundation of liberty. The obedient must be slaves."**
 
-— _Roy T. Bennett_
+— _Henry David Thoreau_
