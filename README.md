@@ -1,3 +1,3 @@
-**"Disobedience is the true foundation of liberty. The obedient must be slaves."**
+**"You can have the mind or you can have the moment."**
 
-— _Henry David Thoreau_
+— _Naval Ravikant_
