@@ -1,3 +1,3 @@
-**"You can have the mind or you can have the moment."**
+**"If I cannot do great things. I can do small things in a great way."**
 
-— _Naval Ravikant_
+— _Martin Luther King, Jr._
