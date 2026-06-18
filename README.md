@@ -1,3 +1,3 @@
-**"If I cannot do great things. I can do small things in a great way."**
+**"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."**
 
-— _Martin Luther King, Jr._
+— _Roy T. Bennett_
