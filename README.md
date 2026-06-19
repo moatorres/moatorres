@@ -1,3 +1,3 @@
-**"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."**
+**"When you're the only sane person, you look like the only insane person."**
 
-— _Roy T. Bennett_
+— _Criss Jami_
