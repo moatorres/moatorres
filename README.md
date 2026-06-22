@@ -1,3 +1,0 @@
-**"When you're the only sane person, you look like the only insane person."**
-
-— _Criss Jami_
