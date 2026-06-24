@@ -1,3 +1,3 @@
-**"Fear is a natural reaction to moving closer to the truth."**
+**"Focus is a matter of deciding what things you're not going to do."**
 
-— _Pema Chodron_
+— _John Carmack_
