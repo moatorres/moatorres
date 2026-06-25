@@ -1,3 +1,3 @@
-**"Focus is a matter of deciding what things you're not going to do."**
+**"Tomorrow is only found in the calendar of fools."**
 
-— _John Carmack_
+— _Og Mandino_
