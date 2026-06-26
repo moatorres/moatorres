@@ -1,3 +1,3 @@
-**"Tomorrow is only found in the calendar of fools."**
+**"Fools talk, cowards are silent, wise men listen."**
 
-— _Og Mandino_
+— _Carlos Ruiz Zafon_
