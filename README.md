@@ -1,3 +1,3 @@
-**"Fools talk, cowards are silent, wise men listen."**
+**"It is never too late to be what you might have been."**
 
-— _Carlos Ruiz Zafon_
+— _George Eliot_
