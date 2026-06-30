@@ -1,3 +1,3 @@
-**"It is never too late to be what you might have been."**
+**"Cease striving. Then there will be transformation."**
 
-— _George Eliot_
+— _Zhuangzi_
