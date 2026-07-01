@@ -1,3 +1,3 @@
-**"Cease striving. Then there will be transformation."**
+**"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."**
 
-— _Zhuangzi_
+— _Winston Churchill_
