@@ -1,3 +1,3 @@
-**"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."**
+**"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."**
 
-— _Winston Churchill_
+— _William James_
