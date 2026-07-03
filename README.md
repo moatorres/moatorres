@@ -1,3 +1,3 @@
-**"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."**
+**"Stop being a prisoner of your past. Become the architect of your future."**
 
-— _William James_
+— _Robin Sharma_
