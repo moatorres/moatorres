@@ -1,3 +1,3 @@
-**"He who wishes to be obeyed must know how to command."**
+**"True life is lived when tiny changes occur."**
 
-— _Niccolo Machiavelli_
+— _Leo Tolstoy_
