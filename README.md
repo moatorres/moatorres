@@ -1,3 +1,3 @@
-**"True life is lived when tiny changes occur."**
+**"So long as we are being remembered, we remain alive."**
 
-— _Leo Tolstoy_
+— _Carlos Ruiz Zafon_
