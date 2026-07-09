@@ -1,3 +1,3 @@
-**"So long as we are being remembered, we remain alive."**
+**"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."**
 
-— _Carlos Ruiz Zafon_
+— _Henry Ward Beecher_
