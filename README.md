@@ -1,3 +1,3 @@
-**"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."**
+**"Do what is right, not what is easy, nor what is popular."**
 
-— _Henry Ward Beecher_
+— _Roy T. Bennett_
