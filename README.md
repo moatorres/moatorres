@@ -1,3 +1,3 @@
-**"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."**
+**"If you want to make God laugh, tell him about your plans."**
 
-— _Dan Millman_
+— _Woody Allen_
