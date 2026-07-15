@@ -1,3 +1,3 @@
-**"If you want to make God laugh, tell him about your plans."**
+**"If I can stop one heart from breaking, I shall not live in vain."**
 
-— _Woody Allen_
+— _Emily Dickinson_
