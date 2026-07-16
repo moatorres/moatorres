@@ -1,3 +1,3 @@
-**"If I can stop one heart from breaking, I shall not live in vain."**
+**"Perpetual optimism is a force multiplier."**
 
-— _Emily Dickinson_
+— _Colin Powell_
