@@ -1,3 +1,3 @@
-**"Perpetual optimism is a force multiplier."**
+**"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."**
 
-— _Colin Powell_
+— _Helen Keller_
