@@ -1,3 +1,3 @@
-**"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."**
+**"Blessed is he who expects nothing, for he shall be disappointed."**
 
-— _Helen Keller_
+— _Jonathan Swift_
