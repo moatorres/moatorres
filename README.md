@@ -1,3 +1,3 @@
-**"Blessed is he who expects nothing, for he shall be disappointed."**
+**"Attitude, not aptitude, determines altitude."**
 
-— _Jonathan Swift_
+— _Zig Ziglar_
