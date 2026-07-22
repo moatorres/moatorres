@@ -1,3 +1,3 @@
-**"Attitude, not aptitude, determines altitude."**
+**"Well done is better than well said."**
 
-— _Zig Ziglar_
+— _Benjamin Franklin_
