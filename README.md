@@ -1,3 +1,3 @@
-**"Well done is better than well said."**
+**"Absorb what is useful, discard what is not, add what is uniquely your own."**
 
-— _Benjamin Franklin_
+— _Bruce Lee_
