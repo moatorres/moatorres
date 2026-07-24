@@ -1,3 +1,3 @@
-**"Absorb what is useful, discard what is not, add what is uniquely your own."**
+**"Every day is an opportunity to a make a new happy ending."**
 
-— _Bruce Lee_
+— _Jonathan Swift_
