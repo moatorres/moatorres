@@ -1,3 +1,3 @@
-**"Every day is an opportunity to a make a new happy ending."**
+**"Don't look back - you're not going that way."**
 
-— _Jonathan Swift_
+— _Mary Engelbreit_
