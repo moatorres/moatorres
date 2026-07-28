@@ -1,3 +1,3 @@
-**"Don't look back - you're not going that way."**
+**"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."**
 
-— _Mary Engelbreit_
+— _Criss Jami_
