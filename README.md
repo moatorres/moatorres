@@ -1,3 +1,3 @@
-**"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."**
+**"Action may not always bring happiness, but there is no happiness without action."**
 
-— _Criss Jami_
+— _William James_
