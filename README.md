@@ -1,3 +1,3 @@
-**"Action may not always bring happiness, but there is no happiness without action."**
+**"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."**
 
-— _William James_
+— _Nelson Mandela_
