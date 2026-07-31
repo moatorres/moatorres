@@ -1,3 +1,3 @@
-**"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."**
+**"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."**
 
-— _Nelson Mandela_
+— _Zig Ziglar_
