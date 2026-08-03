@@ -1,3 +1,3 @@
-**"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."**
+**"Try all things, hold fast that which is good."**
 
-— _Zig Ziglar_
+— _John Locke_
