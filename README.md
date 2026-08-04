@@ -1,3 +1,3 @@
-**"Try all things, hold fast that which is good."**
+**"Never do to others what you would not like them to do to you."**
 
-— _John Locke_
+— _Confucius_
