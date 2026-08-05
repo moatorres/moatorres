@@ -1,3 +1,3 @@
-**"Never do to others what you would not like them to do to you."**
+**"It's not about what it is, it's about what it can become."**
 
-— _Confucius_
+— _Dr. Seuss_
