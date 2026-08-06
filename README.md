@@ -1,3 +1,3 @@
-**"It's not about what it is, it's about what it can become."**
+**"Nothing like a health problem to turn up the contrast dial for the rest of life."**
 
-— _Dr. Seuss_
+— _Naval Ravikant_
