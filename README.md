@@ -1,3 +1,3 @@
-**"Being wrong opens us up to the possibility of change."**
+**"Sometimes you have to shut your eyes, so you can see the real beauty."**
 
-— _Mark Manson_
+— _Kilian Jornet_
