@@ -1,3 +1,3 @@
-**"Sometimes you have to shut your eyes, so you can see the real beauty."**
+**"For the things we have to learn before we can do them, we learn by doing them."**
 
-— _Kilian Jornet_
+— _Aristotle_
