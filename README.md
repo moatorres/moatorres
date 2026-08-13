@@ -1,3 +1,3 @@
-**"For the things we have to learn before we can do them, we learn by doing them."**
+**"Believe you can and you're halfway there."**
 
-— _Aristotle_
+— _Theodore Roosevelt_
