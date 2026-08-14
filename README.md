@@ -1,3 +1,3 @@
-**"Believe you can and you're halfway there."**
+**"The only time you run out of chances is when you stop taking them."**
 
-— _Theodore Roosevelt_
+— _Unknown_
