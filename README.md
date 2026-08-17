@@ -1,3 +1,3 @@
-**"The only time you run out of chances is when you stop taking them."**
+**"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."**
 
-— _Unknown_
+— _Carl Jung_
