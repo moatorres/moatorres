@@ -1,3 +1,3 @@
-**"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."**
+**"A person is only by the thoughts that he chooses."**
 
-— _Carl Jung_
+— _James Allen_
