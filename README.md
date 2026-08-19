@@ -1,3 +1,3 @@
-**"A person is only by the thoughts that he chooses."**
+**"It is in changing that we find purpose."**
 
-— _James Allen_
+— _Heraclitus_
