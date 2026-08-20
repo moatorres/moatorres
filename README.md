@@ -1,3 +1,3 @@
-**"It is in changing that we find purpose."**
+**"You have a brain and mind of your own. Use it, and reach your own decisions."**
 
-— _Heraclitus_
+— _Napoleon Hill_
