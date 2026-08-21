@@ -1,3 +1,3 @@
-**"You have a brain and mind of your own. Use it, and reach your own decisions."**
+**"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."**
 
-— _Napoleon Hill_
+— _Theodore Roosevelt_
