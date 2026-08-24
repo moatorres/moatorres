@@ -1,3 +1,3 @@
-**"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."**
+**"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."**
 
-— _Theodore Roosevelt_
+— _Wayne Dyer_
