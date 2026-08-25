@@ -1,3 +1,3 @@
-**"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."**
+**"If you want things to be different, perhaps the answer is to become different yourself."**
 
-— _Wayne Dyer_
+— _Norman Vincent Peale_
