@@ -1,3 +1,3 @@
-**"If you want things to be different, perhaps the answer is to become different yourself."**
+**"Believe and you're halfway there."**
 
-— _Norman Vincent Peale_
+— _Harry S. Truman_
