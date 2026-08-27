@@ -1,3 +1,3 @@
-**"Believe and you're halfway there."**
+**"Children are our greatest natural resource."**
 
-— _Harry S. Truman_
+— _Herbert Hoover_
