@@ -1,3 +1,3 @@
-**"Children are our greatest natural resource."**
+**"An intelligence test sometimes shows a man how smart he would have been not to have taken it."**
 
-— _Herbert Hoover_
+— _Laurence J. Peter_
