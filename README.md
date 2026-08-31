@@ -1,3 +1,3 @@
-**"An intelligence test sometimes shows a man how smart he would have been not to have taken it."**
+**"Anything you may hold firmly in your imagination can be yours."**
 
-— _Laurence J. Peter_
+— _William James_
