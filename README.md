@@ -1,3 +1,3 @@
-**"Anything you may hold firmly in your imagination can be yours."**
+**"Honesty is a very expensive gift, Don't expect it from cheap people."**
 
-— _William James_
+— _Warren Buffett_
