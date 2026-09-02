@@ -1,3 +1,3 @@
-**"Honesty is a very expensive gift, Don't expect it from cheap people."**
+**"My instinct is always to seek out challenges as opposed to avoiding them."**
 
-— _Warren Buffett_
+— _Josh Waitzkin_
