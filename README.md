@@ -1,3 +1,3 @@
-**"My instinct is always to seek out challenges as opposed to avoiding them."**
+**"It takes real work to grasp what is invisible to just about everyone else."**
 
-— _Josh Waitzkin_
+— _Ryan Holiday_
