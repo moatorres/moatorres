@@ -1,3 +1,3 @@
-**"It takes real work to grasp what is invisible to just about everyone else."**
+**"The more you like yourself, the less you are like anyone else, which makes you unique."**
 
-— _Ryan Holiday_
+— _Walt Disney_
