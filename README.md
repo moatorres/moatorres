@@ -1,3 +1,3 @@
-**"The more you like yourself, the less you are like anyone else, which makes you unique."**
+**"People who belittle people, will be LITTLE people, and will accomplish very Little"**
 
-— _Walt Disney_
+— _Norman Vincent Peale_
