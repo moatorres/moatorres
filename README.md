@@ -1,3 +1,3 @@
-**"People who belittle people, will be LITTLE people, and will accomplish very Little"**
+**"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."**
 
-— _Norman Vincent Peale_
+— _Bhagavad Gita_
