@@ -1,3 +1,3 @@
-**"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."**
+**"Don't gain the world and lose your soul. Wisdom is better than silver and gold."**
 
-— _Bhagavad Gita_
+— _Bob Marley_
