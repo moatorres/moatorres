@@ -1,3 +1,3 @@
-**"Don't gain the world and lose your soul. Wisdom is better than silver and gold."**
+**"Laziness may appear attractive, but work gives satisfaction."**
 
-— _Bob Marley_
+— _Anne Frank_
