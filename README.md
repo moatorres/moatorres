@@ -1,3 +1,3 @@
-**"Laziness may appear attractive, but work gives satisfaction."**
+**"I don't pretend to know everything; I just only speak on matters I know I'll win."**
 
-— _Anne Frank_
+— _Criss Jami_
