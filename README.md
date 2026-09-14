@@ -1,3 +1,3 @@
-**"I don't pretend to know everything; I just only speak on matters I know I'll win."**
+**"Evil is whatever distracts."**
 
-— _Criss Jami_
+— _Franz Kafka_
