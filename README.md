@@ -1,3 +1,3 @@
-**"Evil is whatever distracts."**
+**"The attempt to escape from pain, is what creates more pain."**
 
-— _Franz Kafka_
+— _Gabor Mate_
