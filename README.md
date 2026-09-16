@@ -1,3 +1,3 @@
-**"The attempt to escape from pain, is what creates more pain."**
+**"Before you embark on a journey of revenge, dig two graves."**
 
-— _Gabor Mate_
+— _Confucius_
