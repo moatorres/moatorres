@@ -1,3 +1,3 @@
-**"Before you embark on a journey of revenge, dig two graves."**
+**"Riches don't make a man rich, they only make him busier."**
 
-— _Confucius_
+— _Christopher Columbus_
