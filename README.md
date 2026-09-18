@@ -1,3 +1,3 @@
-**"Riches don't make a man rich, they only make him busier."**
+**"I do not seek. I find."**
 
-— _Christopher Columbus_
+— _Pablo Picasso_
