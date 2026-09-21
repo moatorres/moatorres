@@ -1,3 +1,3 @@
-**"I do not seek. I find."**
+**"A loving heart is the truest wisdom."**
 
-— _Pablo Picasso_
+— _Charles Dickens_
