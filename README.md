@@ -1,3 +1,3 @@
-**"A loving heart is the truest wisdom."**
+**"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."**
 
-— _Charles Dickens_
+— _George Eliot_
