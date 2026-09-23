@@ -1,3 +1,3 @@
-**"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."**
+**"The more you are motivated by Love, The more Fearless & Free your action will be."**
 
-— _George Eliot_
+— _Dalai Lama_
