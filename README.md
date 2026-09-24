@@ -1,3 +1,3 @@
-**"The more you are motivated by Love, The more Fearless & Free your action will be."**
+**"If you don't like something, change it. If you can't change it, change your attitude."**
 
-— _Dalai Lama_
+— _Maya Angelou_
