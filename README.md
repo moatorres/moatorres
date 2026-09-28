@@ -1,3 +1,3 @@
-**"Imagination means nothing without doing."**
+**"Abundance of knowledge does not teach men to be wise."**
 
-— _Charlie Chaplin_
+— _Heraclitus_
