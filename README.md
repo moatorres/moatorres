@@ -1,3 +1,3 @@
-**"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."**
+**"To find yourself, think for yourself."**
 
-— _Nelson Mandela_
+— _Socrates_
