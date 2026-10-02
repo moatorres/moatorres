@@ -1,3 +1,3 @@
-**"To find yourself, think for yourself."**
+**"Nothing is particularly hard if you divide it into small jobs."**
 
-— _Socrates_
+— _Henry Ford_
