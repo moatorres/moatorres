@@ -1,3 +1,3 @@
-**"Nothing is particularly hard if you divide it into small jobs."**
+**"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."**
 
-— _Henry Ford_
+— _Andrew Carnegie_
