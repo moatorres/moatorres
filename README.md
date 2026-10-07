@@ -1,3 +1,3 @@
-**"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."**
+**"Wake up and smile! Wake up and be grateful!"**
 
-— _Andrew Carnegie_
+— _Steve Harvey_
