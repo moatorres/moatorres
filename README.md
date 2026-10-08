@@ -1,3 +1,3 @@
-**"Wake up and smile! Wake up and be grateful!"**
+**"The businessman's tool is value."**
 
-— _Steve Harvey_
+— _Ayn Rand_
