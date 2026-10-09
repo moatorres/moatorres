@@ -1,3 +1,3 @@
-**"The businessman's tool is value."**
+**"He who knows best knows how little he knows."**
 
-— _Ayn Rand_
+— _Thomas Jefferson_
