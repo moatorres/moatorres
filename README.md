@@ -1,3 +1,3 @@
-**"He who knows best knows how little he knows."**
+**"If you want to see things just as they are, then you yourself must practice just as you are."**
 
-— _Thomas Jefferson_
+— _Dogen_
