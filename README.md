@@ -1,3 +1,3 @@
-**"If you want to see things just as they are, then you yourself must practice just as you are."**
+**"The difference between winning and losing is most often not quitting."**
 
-— _Dogen_
+— _Walt Disney_
