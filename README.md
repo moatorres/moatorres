@@ -1,3 +1,3 @@
-**"The difference between winning and losing is most often not quitting."**
+**"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."**
 
-— _Walt Disney_
+— _Earl Nightingale_
