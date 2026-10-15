@@ -1,3 +1,3 @@
-**"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."**
+**"If we have no peace, it is because we have forgotten that we belong to each other."**
 
-— _Earl Nightingale_
+— _Mother Teresa_
