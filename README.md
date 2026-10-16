@@ -1,3 +1,3 @@
-**"If we have no peace, it is because we have forgotten that we belong to each other."**
+**"Go confidently in the direction of your dreams! Live the life you've imagined."**
 
-— _Mother Teresa_
+— _Henry David Thoreau_
