@@ -1,3 +1,3 @@
-**"Go confidently in the direction of your dreams! Live the life you've imagined."**
+**"Confidence breeds beauty."**
 
-— _Henry David Thoreau_
+— _Estee Lauder_
