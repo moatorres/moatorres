@@ -1,3 +1,3 @@
-**"Confidence breeds beauty."**
+**"Perplexity is the beginning of knowledge."**
 
-— _Estee Lauder_
+— _Kahlil Gibran_
