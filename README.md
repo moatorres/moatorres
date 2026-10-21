@@ -1,3 +1,3 @@
-**"Perplexity is the beginning of knowledge."**
+**"I am always doing that which I can not do, in order that I may learn how to do it."**
 
-— _Kahlil Gibran_
+— _Pablo Picasso_
