@@ -1,3 +1,3 @@
-**"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."**
+**"Make each day your masterpiece."**
 
-— _Theodore Roosevelt_
+— _John Wooden_
