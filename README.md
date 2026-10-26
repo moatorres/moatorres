@@ -1,3 +1,3 @@
-**"Make each day your masterpiece."**
+**"Work for something because it is good, not just because it stands a chance to succeed."**
 
-— _John Wooden_
+— _Vaclav Havel_
