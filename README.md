@@ -1,3 +1,3 @@
-**"Work for something because it is good, not just because it stands a chance to succeed."**
+**"The only limit to our realization of tomorrow will be our doubts of today."**
 
-— _Vaclav Havel_
+— _Colin R. Davis_
