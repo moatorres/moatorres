@@ -1,3 +1,3 @@
-**"The only limit to our realization of tomorrow will be our doubts of today."**
+**"Every failure brings with it the seed of an equivalent success."**
 
-— _Colin R. Davis_
+— _Napoleon Hill_
