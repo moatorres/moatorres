@@ -1,3 +1,3 @@
-**"Every failure brings with it the seed of an equivalent success."**
+**"Believe that life is worth living and your belief will help create the fact."**
 
-— _Napoleon Hill_
+— _William James_
