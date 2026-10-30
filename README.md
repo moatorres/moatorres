@@ -1,3 +1,3 @@
-**"Believe that life is worth living and your belief will help create the fact."**
+**"As a matter of fact is an expression that precedes many an expression that isn't."**
 
-— _William James_
+— _Laurence J. Peter_
