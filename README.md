@@ -1,3 +1,3 @@
-**"As a matter of fact is an expression that precedes many an expression that isn't."**
+**"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."**
 
-— _Laurence J. Peter_
+— _Morihei Ueshiba_
