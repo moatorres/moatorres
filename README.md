@@ -1,3 +1,3 @@
-**"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."**
+**"Abundance of knowledge does not teach men to be wise."**
 
-— _Morihei Ueshiba_
+— _Heraclitus_
