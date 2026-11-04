@@ -1,3 +1,3 @@
-**"Abundance of knowledge does not teach men to be wise."**
+**"You win more from losing than winning."**
 
-— _Heraclitus_
+— _Morgan Wootten_
