@@ -1,3 +1,3 @@
-**"You win more from losing than winning."**
+**"The greatest miracle is to be alive."**
 
-— _Morgan Wootten_
+— _Thich Nhat Hanh_
