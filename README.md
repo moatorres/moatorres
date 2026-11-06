@@ -1,3 +1,3 @@
-**"The greatest miracle is to be alive."**
+**"Focused, hard work is the real key to success."**
 
-— _Thich Nhat Hanh_
+— _John Carmack_
