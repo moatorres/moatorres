@@ -1,3 +1,3 @@
-**"Focused, hard work is the real key to success."**
+**"Trust your instincts: my first reaction is almost invariably the right one."**
 
-— _John Carmack_
+— _Estee Lauder_
