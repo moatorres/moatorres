@@ -1,3 +1,3 @@
-**"Trust your instincts: my first reaction is almost invariably the right one."**
+**"To seek greatness is the only righteous vengeance."**
 
-— _Estee Lauder_
+— _Criss Jami_
