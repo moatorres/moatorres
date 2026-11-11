@@ -1,3 +1,3 @@
-**"To seek greatness is the only righteous vengeance."**
+**"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."**
 
-— _Criss Jami_
+— _Charles Spurgeon_
