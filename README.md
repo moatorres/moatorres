@@ -1,3 +1,3 @@
-**"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."**
+**"Never trust he who trusts everyone."**
 
-— _Charles Spurgeon_
+— _Carlos Ruiz Zafon_
