@@ -1,3 +1,3 @@
-**"Never trust he who trusts everyone."**
+**"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."**
 
-— _Carlos Ruiz Zafon_
+— _Amelia Earhart_
