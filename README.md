@@ -1,3 +1,3 @@
-**"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."**
+**"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."**
 
-— _Amelia Earhart_
+— _Bob Proctor_
