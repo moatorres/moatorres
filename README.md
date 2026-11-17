@@ -1,3 +1,3 @@
-**"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."**
+**"If you want to see things just as they are, then you yourself must practice just as you are."**
 
-— _Bob Proctor_
+— _Dogen_
