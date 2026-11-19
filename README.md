@@ -1,3 +1,3 @@
-**"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."**
+**"Remember, hope is a good thing, maybe the best of things."**
 
-— _Betty White_
+— _Stephen King_
