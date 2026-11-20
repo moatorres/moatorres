@@ -1,3 +1,3 @@
-**"Remember, hope is a good thing, maybe the best of things."**
+**"The future is the worst thing about the present."**
 
-— _Stephen King_
+— _Gustave Flaubert_
