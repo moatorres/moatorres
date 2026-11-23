@@ -1,3 +1,3 @@
-**"The future is the worst thing about the present."**
+**"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."**
 
-— _Gustave Flaubert_
+— _Robert Kiyosaki_
