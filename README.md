@@ -1,3 +1,3 @@
-**"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."**
+**"Today I begin a new life. I will greet this day with love in my heart."**
 
-— _Robert Kiyosaki_
+— _Og Mandino_
