@@ -1,3 +1,3 @@
-**"Today I begin a new life. I will greet this day with love in my heart."**
+**"Be brave enough to suck at something new."**
 
-— _Og Mandino_
+— _Unknown_
