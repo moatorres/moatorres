@@ -1,3 +1,3 @@
-**"Be brave enough to suck at something new."**
+**"You are the average of the five people you spend most time with."**
 
-— _Unknown_
+— _Jim Rohn_
