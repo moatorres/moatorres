@@ -1,3 +1,3 @@
-**"You are the average of the five people you spend most time with."**
+**"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."**
 
-— _Jim Rohn_
+— _Jack Butcher_
